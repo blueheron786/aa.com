@@ -1,3 +1,5 @@
+import datetime
+
 AUTHOR = 'Ashiq Alibhai'
 SITENAME = 'Ashiq Alibhai, Author of Fantasy & Sci-Fi'
 SITESUBTITLE = 'Exploring Faith, Imagination, and Distant Worlds'
@@ -31,3 +33,6 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
+
+COPYRIGHT_YEAR = datetime.datetime.now().year
+COPYRIGHT_NAME = AUTHOR
