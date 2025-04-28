@@ -36,3 +36,5 @@ RELATIVE_URLS = True
 
 COPYRIGHT_YEAR = datetime.datetime.now().year
 COPYRIGHT_NAME = AUTHOR
+# Force dark mode. MY EYES!
+THEME_COLOR = "dark"
