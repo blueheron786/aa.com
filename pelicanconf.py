@@ -3,7 +3,7 @@ import datetime
 AUTHOR = 'Ashiq Alibhai'
 SITENAME = 'Ashiq Alibhai, Author of Fantasy & Sci-Fi'
 SITESUBTITLE = 'Exploring Faith, Imagination, and Distant Worlds'
-SITEURL = "https://ashiqalibhai.com"
+SITEURL = "localhost:8000"
 
 PATH = "content"
 
