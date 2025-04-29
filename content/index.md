@@ -9,7 +9,7 @@ Author of Islamic Fantasy and Science Fiction
 
 {{ LATEST THREE LINKS }}
 
-[View All Books →](/books)
+[View All Books →](/books.html)
 
 
 <h2>🧭 About the Author</h2>
