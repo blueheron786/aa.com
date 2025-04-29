@@ -27,6 +27,9 @@ INDEX_SAVE_AS = 'blog/index.html'
 #DIRECT_TEMPLATES = ['blog']  # NOT 'index'
 DEFAULT_ORDER = 'by-date'
 
+PLUGIN_PATHS = ['plugins']
+PLUGINS = ['home_content_injector']
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
