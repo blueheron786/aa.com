@@ -9,10 +9,13 @@ PATH = "content"
 
 TIMEZONE = 'America/Toronto'
 
-DEFAULT_LANG = 'English'
+DEFAULT_LANG = 'en'
 THEME = 'themes/flexing'
 
 STATIC_PATHS = ['images', 'pdfs', 'extra']
+
+PAGE_URL = '{slug}.html'
+PAGE_SAVE_AS = '{slug}.html'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
