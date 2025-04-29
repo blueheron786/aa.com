@@ -10,9 +10,9 @@ Author of Islamic Fantasy and Science Fiction
 <h2>📖 Latest Books</h2>
 
 <!-- start -->
-- [The Green Beast](books/the-green-beast.html) (2025-04-25)
-- [Minaret Adventures](books/minaret-adventures.html) (2023-09-24)
-- [The Amazing Whisker Warriors](books/the-amazing-whisker-warriors.html) (2023-08-23)
+- [The Green Beast](books/the-green-beast.html) (published in April 2025)
+- [Minaret Adventures](books/minaret-adventures.html) (published in September 2023)
+- [The Amazing Whisker Warriors](books/the-amazing-whisker-warriors.html) (published in August 2023)
 <!-- end -->
 
 [View All Books →](/books.html)
