@@ -9,7 +9,11 @@ Author of Islamic Fantasy and Science Fiction
 
 <h2>📖 Latest Books</h2>
 
-<!-- Pelican will insert books here -->
+<!-- start -->
+- [The Green Beast](books/the-green-beast.html) (2025-04-25)
+- [Minaret Adventures](books/minaret-adventures.html) (2023-09-24)
+- [The Amazing Whisker Warriors](books/the-amazing-whisker-warriors.html) (2023-08-23)
+<!-- end -->
 
 [View All Books →](/books.html)
 
