@@ -25,6 +25,7 @@ DEFAULT_LANG = 'en'
 THEME = 'themes/flexing'
 INDEX_SAVE_AS = 'blog/index.html'
 #DIRECT_TEMPLATES = ['blog']  # NOT 'index'
+DEFAULT_ORDER = 'by-date'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
