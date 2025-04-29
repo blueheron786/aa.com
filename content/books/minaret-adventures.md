@@ -1,9 +1,9 @@
-Title: The Green Beast
+Title: Minaret Adventures
 Date: 2023-09-24
 Category: Books
 Slug: minaret-adventures
 Summary: Embark on a literary journey with a collection of 12 mesmerizing short stories that weave together fantasy, modern-day dilemmas, and futuristic adventures, all while placing Islam and Muslims at the heart of each narrative.
-Cover: /images/covers/minaret-adventures.png
+Cover: /images/covers/minaret-adventures.jpg
 BuyLink: https://books2read.com/u/3kBkVN
 
 ---
