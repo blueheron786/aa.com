@@ -12,7 +12,7 @@ def update_homepage_with_books(generator):
     latest_books = books[:3]
 
     # Format the entries
-    new_content = "\n".join([f"- [{a.title}]({a.url}) ({a.date.strftime('%Y-%m-%d')})" for a in latest_books])
+    new_content = "\n".join([f"- [{a.title}]({a.url}) (published in {a.date.strftime('%B %Y')})" for a in latest_books])
 
     # Replace section in home.md
     with open(home_md_path, 'r', encoding='utf-8') as f:
