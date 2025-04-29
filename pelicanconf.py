@@ -7,15 +7,24 @@ SITEURL = "https://ashiqalibhai.com"
 
 PATH = "content"
 
-TIMEZONE = 'America/Toronto'
+# Content sources
+ARTICLE_PATHS = ['articles', 'books']   # normal blog posts
+PAGE_PATHS = ['pages']          # standalone pages like About
+STATIC_PATHS = ['images']
 
-DEFAULT_LANG = 'en'
-THEME = 'themes/flexing'
-
-STATIC_PATHS = ['images', 'pdfs', 'extra']
+# URL configz
+ARTICLE_URL = '{category}/{slug}.html'
+ARTICLE_SAVE_AS = '{category}/{slug}.html'
 
 PAGE_URL = '{slug}.html'
 PAGE_SAVE_AS = '{slug}.html'
+
+# General configz
+TIMEZONE = 'America/Toronto'
+DEFAULT_LANG = 'en'
+THEME = 'themes/flexing'
+INDEX_SAVE_AS = 'blog/index.html'
+#DIRECT_TEMPLATES = ['blog']  # NOT 'index'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
