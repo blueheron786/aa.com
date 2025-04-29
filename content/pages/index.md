@@ -1,6 +1,6 @@
-Title: Ashiq Alibhai
-Date: 2025-04-29
+Title: Home
 save_as: index.html
+url: /
 
 Author of Islamic Fantasy and Science Fiction
 
