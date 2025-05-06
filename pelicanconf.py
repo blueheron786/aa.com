@@ -10,7 +10,7 @@ PATH = "content"
 # Content sources
 ARTICLE_PATHS = ['articles', 'books']   # normal blog posts
 PAGE_PATHS = ['pages']          # standalone pages like About
-STATIC_PATHS = ['images']
+STATIC_PATHS = ['images', 'excerpts']
 
 # URL configz
 ARTICLE_URL = '{category}/{slug}.html'
