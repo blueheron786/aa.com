@@ -14,9 +14,23 @@ def update_homepage_with_books(generator):
     books.sort(key=lambda a: a.date, reverse=True)
     latest_books = books[:NUM_BOOKS]
 
-    # Format the entries
-    new_content = "\n".join([f"- [{a.title}]({a.url}) (published in {a.date.strftime('%B %Y')})" for a in latest_books])
-
+    siteurl = generator.settings.get('SITEURL', '')
+    # Format the entries. Similar to books.html's display.
+    new_content = "\n".join([f"""
+<div class="book-grid">
+    <div class="book-image">
+        <a href="{siteurl}/{a.url}">
+            <img src="{siteurl}{a.metadata.get('cover', '')}" alt="{a.title} cover" />
+        </a>
+    </div>
+    <div class="book-info">
+        <h2 class="book-title"><a href="{siteurl}/{a.url}">{a.title}</a></h2>
+        <p class="book-summary">{a.summary}</p>
+        <p><a class="read-more" href="{siteurl}/{a.url}">Read more →</a></p>
+    </div>
+</div>
+        """ for a in latest_books])
+    
     # Replace section in home.md
     with open(home_md_path, 'r', encoding='utf-8') as f:
         contents = f.read()

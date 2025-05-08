@@ -17,9 +17,48 @@ Author of Islamic Fantasy and Science Fiction
 <h2>📖 Latest Books</h2>
 
 <!-- start books -->
-- [The Green Beast](books/the-green-beast.html) (published in April 2025)
-- [Minaret Adventures](books/minaret-adventures.html) (published in September 2023)
-- [The Amazing Whisker Warriors](books/the-amazing-whisker-warriors.html) (published in August 2023)
+
+<div class="book-grid">
+    <div class="book-image">
+        <a href="https://ashiqalibhai.com/books/the-green-beast.html">
+            <img src="https://ashiqalibhai.com/images/covers/the-green-beast.jpg" alt="The Green Beast cover" />
+        </a>
+    </div>
+    <div class="book-info">
+        <h2 class="book-title"><a href="https://ashiqalibhai.com/books/the-green-beast.html">The Green Beast</a></h2>
+        <p class="book-summary"><p>In the grim and decaying kingdom of Caldur Hollow, Sir Tariq, a once-proud knight cursed into the form of a monstrous frog, must confront his past and the legacy of his fallen mentor. As he hunts for vengeance, he encounters a world where magic is both a curse and a gift, and where revenge comes with a heavy cost.</p></p>
+        <p><a class="read-more" href="https://ashiqalibhai.com/books/the-green-beast.html">Read more →</a></p>
+    </div>
+</div>
+        
+
+<div class="book-grid">
+    <div class="book-image">
+        <a href="https://ashiqalibhai.com/books/minaret-adventures.html">
+            <img src="https://ashiqalibhai.com/images/covers/minaret-adventures.jpg" alt="Minaret Adventures cover" />
+        </a>
+    </div>
+    <div class="book-info">
+        <h2 class="book-title"><a href="https://ashiqalibhai.com/books/minaret-adventures.html">Minaret Adventures</a></h2>
+        <p class="book-summary"><p>Embark on a literary journey with a collection of 12 mesmerizing short stories that weave together fantasy, modern-day dilemmas, and futuristic adventures, all while placing Islam and Muslims at the heart of each narrative.</p></p>
+        <p><a class="read-more" href="https://ashiqalibhai.com/books/minaret-adventures.html">Read more →</a></p>
+    </div>
+</div>
+        
+
+<div class="book-grid">
+    <div class="book-image">
+        <a href="https://ashiqalibhai.com/books/the-amazing-whisker-warriors.html">
+            <img src="https://ashiqalibhai.com/images/covers/whisker-warriors.jpg" alt="The Amazing Whisker Warriors cover" />
+        </a>
+    </div>
+    <div class="book-info">
+        <h2 class="book-title"><a href="https://ashiqalibhai.com/books/the-amazing-whisker-warriors.html">The Amazing Whisker Warriors</a></h2>
+        <p class="book-summary"><p>Step into the paws of Zaid and his extraordinary feline friends! When their friends are captured by a menacing force, these fearless cats must use their unique powers – from invisibility to sonic screeches – to rescue them from the clutches of danger.</p></p>
+        <p><a class="read-more" href="https://ashiqalibhai.com/books/the-amazing-whisker-warriors.html">Read more →</a></p>
+    </div>
+</div>
+        
 <!-- end books -->
 
 [View all books →](/books.html)
