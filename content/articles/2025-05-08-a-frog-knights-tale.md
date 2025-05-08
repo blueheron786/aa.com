@@ -21,4 +21,4 @@ The Green Beast follows the tale of Sir Tariq of Mirewood, ex-knight, cursed to 
 
 The Green Beast is my attempt to wrestle with those questions, to explore what happens when Furusiya (Islamic knighthood) and rage coexist inside a broken creature. Sir Tariq’s journey isn’t a retelling of Glenn’s, but it carries the same emotional DNA: the weight of loss, the distortion of identity, and the search for meaning when all the noble paths seem lost. It’s a tale born from childhood wonder, grown in the soil of memory, and shaped by the need to ask: what does it mean to remain true to yourself when the world turns you into something else?
 
-You can [read more about the book here](/books/the-green-beast).
+You can [read more about the book here](/books/the-green-beast.html).

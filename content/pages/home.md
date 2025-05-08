@@ -6,16 +6,23 @@ status: published
 <h1>Ashiq Alibhai</h1>
 Author of Islamic Fantasy and Science Fiction
 
+<h2>📝 Latest Blog Posts</h2>
+
+<!-- start blog posts -->
+- [A Frog Knight's Tale](blog/a-frog-knights-tale.html) - May 8, 2025
+<!-- end blog posts -->
+
+[View all posts →](/category/blog.html)
 
 <h2>📖 Latest Books</h2>
 
-<!-- start -->
+<!-- start books -->
 - [The Green Beast](books/the-green-beast.html) (published in April 2025)
 - [Minaret Adventures](books/minaret-adventures.html) (published in September 2023)
 - [The Amazing Whisker Warriors](books/the-amazing-whisker-warriors.html) (published in August 2023)
-<!-- end -->
+<!-- end books -->
 
-[View All Books →](/books.html)
+[View all books →](/books.html)
 
 <h2>🧭 About the Author</h2>
 Ashiq Alibhai  is a Muslim author and lifelong reader of fantasy and science fiction. His work explores the meeting point between faith, Islamic themes, and speculative worlds. His books are available worldwide in digital and physical formats through bookstores and libraries. He lives in Ontario with his family and a mischievous cat named Marshmallow.
