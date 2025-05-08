@@ -4,7 +4,7 @@ Category: Books
 Slug: the-amazing-whisker-warriors
 Summary: Step into the paws of Zaid and his extraordinary feline friends! When their friends are captured by a menacing force, these fearless cats must use their unique powers – from invisibility to sonic screeches – to rescue them from the clutches of danger.
 Cover: /images/covers/whisker-warriors.jpg
-buy_link: https://books2read.com/u/38nlad
+BuyLink: https://books2read.com/u/38nlad
 template: book
 ---
 
