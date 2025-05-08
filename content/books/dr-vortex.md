@@ -4,7 +4,7 @@ Category: Books
 Slug: dr-vortex-web-of-shadows
 Summary: Embark on an electrifying journey through the captivating world of "the Battle Against SHADOW's Darkness." Crafted specifically for teenagers seeking gripping adventures, and cherished by parents who value meaningful reads, this extraordinary sci-fi tale intertwines mystery, friendship, and the power of faith.
 Cover: /images/covers/dr-vortex.jpg
-buy_link: https://books2read.com/u/47dB98
+BuyLink: https://books2read.com/u/47dB98
 template: book
 ---
 

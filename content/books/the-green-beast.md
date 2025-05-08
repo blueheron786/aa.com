@@ -4,7 +4,7 @@ Category: Books
 Slug: the-green-beast
 Summary: In the grim and decaying kingdom of Caldur Hollow, Sir Tariq, a once-proud knight cursed into the form of a monstrous frog, must confront his past and the legacy of his fallen mentor. As he hunts for vengeance, he encounters a world where magic is both a curse and a gift, and where revenge comes with a heavy cost.
 Cover: /images/covers/the-green-beast.jpg
-buy_link: https://books2read.com/greenbeast
+BuyLink: https://books2read.com/greenbeast
 template: book
 
 ---
