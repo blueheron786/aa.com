@@ -64,7 +64,7 @@ Author of Islamic Fantasy and Science Fiction
 [View all books →](/books.html)
 
 <h2>🧭 About the Author</h2>
-Ashiq Alibhai  is a Muslim author and lifelong reader of fantasy and science fiction. His work explores the meeting point between faith, Islamic themes, and speculative worlds. His books are available worldwide in digital and physical formats through bookstores and libraries. He lives in Ontario with his family and a mischievous cat named Marshmallow.
+Ashiq Alibhai  is a Muslim author and lifelong reader of fantasy and science fiction. His work explores the meeting point between faith, Islamic themes, and speculative worlds. His books are available worldwide in digital and physical formats through bookstores and libraries. He lives in Ontario with his family and their cat Marshmallow.
 
 <h2>📬 Get the First Chapter Free</h2>
 
