@@ -9,6 +9,7 @@ Author of Islamic Fantasy and Science Fiction
 <h2>📝 Latest Blog Posts</h2>
 
 <!-- start blog posts -->
+- [A Book Co-Written With My Son](blog/a-book-cowritten-with-my-son.html) - June 5, 2025
 - [A Frog Knight's Tale](blog/a-frog-knights-tale.html) - May 8, 2025
 <!-- end blog posts -->
 
