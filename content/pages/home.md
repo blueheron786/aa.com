@@ -20,6 +20,20 @@ Author of Islamic Fantasy and Science Fiction
 
 <div class="book-grid">
     <div class="book-image">
+        <a href="https://ashiqalibhai.com/books/the-last-standing-dragon.html">
+            <img src="https://ashiqalibhai.com/images/covers/the-last-standing-dragon.jpg" alt="The Last Standing Dragon cover" />
+        </a>
+    </div>
+    <div class="book-info">
+        <h2 class="book-title"><a href="https://ashiqalibhai.com/books/the-last-standing-dragon.html">The Last Standing Dragon</a></h2>
+        <p class="book-summary"><p>In a world of whispering winds and forgotten magic, young dragon Bilal sets out to find his missing mother—only to uncover a growing darkness that threatens all dragonkind. With loyal friends and his siblings by his side, Bilal must brave cursed forests, ancient ruins, and the secrets of a past no one dares to speak aloud.</p></p>
+        <p><a class="read-more" href="https://ashiqalibhai.com/books/the-last-standing-dragon.html">Read more →</a></p>
+    </div>
+</div>
+        
+
+<div class="book-grid">
+    <div class="book-image">
         <a href="https://ashiqalibhai.com/books/the-green-beast.html">
             <img src="https://ashiqalibhai.com/images/covers/the-green-beast.jpg" alt="The Green Beast cover" />
         </a>
@@ -42,20 +56,6 @@ Author of Islamic Fantasy and Science Fiction
         <h2 class="book-title"><a href="https://ashiqalibhai.com/books/minaret-adventures.html">Minaret Adventures</a></h2>
         <p class="book-summary"><p>Embark on a literary journey with a collection of 12 mesmerizing short stories that weave together fantasy, modern-day dilemmas, and futuristic adventures, all while placing Islam and Muslims at the heart of each narrative.</p></p>
         <p><a class="read-more" href="https://ashiqalibhai.com/books/minaret-adventures.html">Read more →</a></p>
-    </div>
-</div>
-        
-
-<div class="book-grid">
-    <div class="book-image">
-        <a href="https://ashiqalibhai.com/books/the-amazing-whisker-warriors.html">
-            <img src="https://ashiqalibhai.com/images/covers/whisker-warriors.jpg" alt="The Amazing Whisker Warriors cover" />
-        </a>
-    </div>
-    <div class="book-info">
-        <h2 class="book-title"><a href="https://ashiqalibhai.com/books/the-amazing-whisker-warriors.html">The Amazing Whisker Warriors</a></h2>
-        <p class="book-summary"><p>Step into the paws of Zaid and his extraordinary feline friends! When their friends are captured by a menacing force, these fearless cats must use their unique powers – from invisibility to sonic screeches – to rescue them from the clutches of danger.</p></p>
-        <p><a class="read-more" href="https://ashiqalibhai.com/books/the-amazing-whisker-warriors.html">Read more →</a></p>
     </div>
 </div>
         
