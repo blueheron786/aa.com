@@ -1,0 +1,3 @@
+[submodule "themes/flexing"]
+    path = themes/flexing
+    url = https://github.com/blueheron786/flexing.git
