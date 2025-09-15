@@ -1,6 +1,6 @@
 Title: The Amazing Whisker Warriors
 Date: 2023-08-23
-Category: Books
+Category: books
 Slug: the-amazing-whisker-warriors
 Summary: Step into the paws of Zaid and his extraordinary feline friends! When their friends are captured by a menacing force, these fearless cats must use their unique powers – from invisibility to sonic screeches – to rescue them from the clutches of danger.
 cover: /images/covers/whisker-warriors.jpg

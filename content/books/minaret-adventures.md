@@ -1,6 +1,6 @@
 Title: Minaret Adventures
 Date: 2023-09-24
-Category: Books
+Category: books
 Slug: minaret-adventures
 Summary: Embark on a literary journey with a collection of 12 mesmerizing short stories that weave together fantasy, modern-day dilemmas, and futuristic adventures, all while placing Islam and Muslims at the heart of each narrative.
 cover: /images/covers/minaret-adventures.jpg
