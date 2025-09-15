@@ -36,9 +36,8 @@ header {
   gap: 1.5rem;
   margin-bottom: 1rem;
 }
-.navbar a {
+a {
   color: var(--accent);
-  text-decoration: none;
   font-weight: 500;
   font-size: 1.1rem;
   transition: color 0.2s;
