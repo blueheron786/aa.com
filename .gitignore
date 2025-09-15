@@ -1,2 +1,5 @@
 **/*.pyc
 __pycache__/
+
+# For now only
+output/
