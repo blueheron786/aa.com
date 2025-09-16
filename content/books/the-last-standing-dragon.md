@@ -2,6 +2,7 @@
 title: The Last Standing Dragon
 datePublished: 2025-06-05 10:00:00
 category: books
+template: book
 slug: the-last-standing-dragon
 summary: In a world of whispering winds and forgotten magic, young dragon Bilal sets out to find his missing mother—only to uncover a growing darkness that threatens all dragonkind. With loyal friends and his siblings by his side, Bilal must brave cursed forests, ancient ruins, and the secrets of a past no one dares to speak aloud.
 cover: the-last-standing-dragon.jpg

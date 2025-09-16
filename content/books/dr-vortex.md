@@ -2,6 +2,7 @@
 title: Dr. Vortex's Web of Shadows
 datePublished: 2023-06-27 10:00:00
 category: books
+template: book
 slug: dr-vortex-web-of-shadows
 summary: Embark on an electrifying journey through the captivating world of "the Battle Against SHADOW's Darkness." Crafted specifically for teenagers seeking gripping adventures, and cherished by parents who value meaningful reads, this extraordinary sci-fi tale intertwines mystery, friendship, and the power of faith.
 cover: dr-vortex.jpg
@@ -9,7 +10,6 @@ buy_link: https://books2read.com/u/47dB98
 ---
 
 Embark on an electrifying journey through the captivating world of "the Battle Against SHADOW's Darkness." Crafted specifically for teenagers seeking gripping adventures, and cherished by parents who value meaningful reads, this extraordinary sci-fi tale intertwines mystery, friendship, and the power of faith.
-
 
 Join Luna and Laila, two remarkable young heroes, as they unravel the sinister plots of SHADOW, an organization seemingly hell-bent on seizing control of the world. With their unique talents and unwavering courage, Luna and Laila navigate virtual landscapes, outsmart cutting-edge security systems, and face ferocious alien creatures.
 
