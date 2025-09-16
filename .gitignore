@@ -3,3 +3,4 @@ __pycache__/
 
 # For now only
 output/
+*.bat
