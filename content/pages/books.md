@@ -1,4 +1,7 @@
-Title: Books
-Date: 2025-04-29
-save_as: books.html
+---
+title: Books
+slug: books
+category: pages
+datePublished: 2025-04-29 10:00:00
 template: books
+---
