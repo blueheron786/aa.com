@@ -1,0 +1,1 @@
+dotnet run --project D:\code\mp\MoonPress.CLI d:\code\aa
