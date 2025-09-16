@@ -1,10 +1,12 @@
 <h1>Ashiq Alibhai</h1>
-Author of Islamic Fantasy and Science Fiction
 
 <h2>📝 Latest Blog Posts</h2>
 
-<!-- start blog posts -->
-<!-- end blog posts -->
+ <ul>
+{{ posts | category="blog" | limit=5 }}
+  <li><a href="{{ slug }}">{{ title }}</a></li>
+{{ /posts }}
+</ul>
 
 <a href="/category/blog.html">View all posts →</a>
 
