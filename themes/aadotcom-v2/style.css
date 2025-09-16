@@ -26,15 +26,19 @@ body {
 header {
   background: var(--nav-bg);
   color: var(--nav-fg);
-  padding: var(--spacing) 0.5rem;
+  padding: 1rem 0.5rem;
+}
+.header-container {
   display: flex;
-  flex-direction: column;
   align-items: center;
+  justify-content: space-between;
+  max-width: var(--max-width);
+  margin: 0 auto;
+  gap: 1rem;
 }
 .navbar {
   display: flex;
   gap: 1.5rem;
-  margin-bottom: 1rem;
 }
 a {
   color: var(--accent);
@@ -47,20 +51,17 @@ a {
 }
 .profile {
   display: flex;
-  flex-direction: column;
   align-items: center;
-  margin-bottom: 1rem;
 }
 .profile-pic {
-  width: 120px;
-  height: 120px;
+  width: 60px;
+  height: 60px;
   border-radius: 50%;
   background: #333;
   display: flex;
   align-items: center;
   justify-content: center;
   overflow: hidden;
-  margin-bottom: 0.75rem;
 }
 .profile-pic img {
   width: 100%;
@@ -78,7 +79,7 @@ main {
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 2rem 1rem 1rem 1rem;
+  padding: 1.5rem 1rem 1rem 1rem;
 }
 .content-card {
   background: var(--card-bg);
@@ -102,12 +103,15 @@ footer {
   .content-card {
     padding: 1rem;
   }
+  .header-container {
+    padding: 0 1rem;
+  }
   .navbar {
     gap: 1rem;
     font-size: 1rem;
   }
   .profile-pic {
-    width: 80px;
-    height: 80px;
+    width: 50px;
+    height: 50px;
   }
 }
