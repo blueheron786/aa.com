@@ -1,6 +1,18 @@
 <article class="book-page">
-    <!-- Content from the markdown file will be inserted here -->
+<header>
+    <h1>{{title}}</h1>
+    <div class="book-cover">
+        <img src="/images/covers/{{cover}}" alt="{{title}} Cover">
+    </div>
+</header>
+
+<section class="book-description">
     {{content}}
+</section>
+
+<div class="cta">
+    <a href="{{buy_link}}" class="buy-button">Buy Now</a>
+</div>
 </article>
 
 <style>
