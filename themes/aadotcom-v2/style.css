@@ -43,7 +43,6 @@ header {
 a {
   color: var(--accent);
   font-weight: 500;
-  font-size: 1.1rem;
   transition: color 0.2s;
 }
 .navbar a:hover {
