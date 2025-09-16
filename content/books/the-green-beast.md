@@ -2,6 +2,7 @@
 title: The Green Beast
 datePublished: 2025-04-25 10:00:00
 category: books
+template: book
 slug: the-green-beast
 summary: In the grim and decaying kingdom of Caldur Hollow, Sir Tariq, a once-proud knight cursed into the form of a monstrous frog, must confront his past and the legacy of his fallen mentor. As he hunts for vengeance, he encounters a world where magic is both a curse and a gift, and where revenge comes with a heavy cost.
 cover: the-green-beast.jpg
