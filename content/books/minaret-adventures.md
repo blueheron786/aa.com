@@ -3,9 +3,8 @@ Date: 2023-09-24
 Category: books
 Slug: minaret-adventures
 Summary: Embark on a literary journey with a collection of 12 mesmerizing short stories that weave together fantasy, modern-day dilemmas, and futuristic adventures, all while placing Islam and Muslims at the heart of each narrative.
-cover: /images/covers/minaret-adventures.jpg
+cover: minaret-adventures.jpg
 buy_link: https://books2read.com/u/3kBkVN
-template: book
 ---
 
 Embark on a literary journey with a collection of 12 mesmerizing short stories that weave together fantasy, modern-day dilemmas, and futuristic adventures, all while placing Islam and Muslims at the heart of each narrative.
