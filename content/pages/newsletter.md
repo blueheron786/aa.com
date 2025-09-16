@@ -1,7 +1,6 @@
 Title: Newsletter
 Slug: newsletter
 Date: 2025-04-29
-Save_as: newsletter.html
 
 ## Get the Latest Scoop + Free Stuff
 

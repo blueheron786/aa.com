@@ -1,0 +1,116 @@
+/* Modern, mobile-first, dark mode only theme for ashiqalibhai.com */
+:root {
+  --bg: #18181b;
+  --fg: #f4f4f5;
+  --accent: #38bdf8;
+  --nav-bg: #23232a;
+  --nav-fg: #f4f4f5;
+  --footer-bg: #18181b;
+  --footer-fg: #a1a1aa;
+  --card-bg: #23232a;
+  --card-fg: #f4f4f5;
+  --border-radius: 1rem;
+  --spacing: 1.5rem;
+  --max-width: 600px;
+  --font-main: 'Inter', 'Segoe UI', Arial, sans-serif;
+}
+body {
+  background: var(--bg);
+  color: var(--fg);
+  font-family: var(--font-main);
+  margin: 0;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+header {
+  background: var(--nav-bg);
+  color: var(--nav-fg);
+  padding: 1rem 0.5rem;
+}
+.header-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: var(--max-width);
+  margin: 0 auto;
+  gap: 1rem;
+}
+.navbar {
+  display: flex;
+  gap: 1.5rem;
+}
+a {
+  color: var(--accent);
+  font-weight: 500;
+  transition: color 0.2s;
+}
+.navbar a:hover {
+  color: #0ea5e9;
+}
+.profile {
+  display: flex;
+  align-items: center;
+}
+.profile-pic {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background: #333;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+.profile-pic img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.tagline {
+  font-size: 1.2rem;
+  color: var(--fg);
+  text-align: center;
+  margin-bottom: 0.5rem;
+}
+main {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1.5rem 1rem 1rem 1rem;
+}
+.content-card {
+  background: var(--card-bg);
+  color: var(--card-fg);
+  border-radius: var(--border-radius);
+  box-shadow: 0 2px 16px rgba(0,0,0,0.12);
+  padding: 2rem;
+  max-width: var(--max-width);
+  width: 100%;
+  margin-bottom: 2rem;
+}
+footer {
+  background: var(--footer-bg);
+  color: var(--footer-fg);
+  text-align: center;
+  font-size: 0.85rem;
+  padding: 0.75rem 0;
+  letter-spacing: 0.02em;
+}
+@media (max-width: 600px) {
+  .content-card {
+    padding: 1rem;
+  }
+  .header-container {
+    padding: 0 1rem;
+  }
+  .navbar {
+    gap: 1rem;
+    font-size: 1rem;
+  }
+  .profile-pic {
+    width: 50px;
+    height: 50px;
+  }
+}
