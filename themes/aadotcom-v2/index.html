@@ -4,9 +4,9 @@
 <h2>📝 Latest Blog Posts</h2>
 
  <ul>
-{{ posts | category="blog" | limit=5 }}
-  <li><a href="{{ url }}">{{ title }}</a></li>
-{{ /posts }}
+{{posts | category="blog" | limit=5}}
+  <li><a href="{{url}}">{{title}}</a></li>
+{{/posts}}
 </ul>
 
 <a href="/category/blog.html">View all posts →</a>
