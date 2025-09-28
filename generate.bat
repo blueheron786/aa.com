@@ -1,1 +1,1 @@
-dotnet run --project D:\code\mp\MoonPress.CLI d:\code\aa
+dotnet run --project D:\code\moonpress\MoonPress.CLI d:\code\aa.com
