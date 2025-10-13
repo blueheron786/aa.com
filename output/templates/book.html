@@ -11,6 +11,35 @@
 </section>
 
 <div class="cta">
-    <h2 style="text-align: center;"><a href="{{buy_link}}" class="buy-button">Buy Now</a></h2>
+    {{#buy_link}}
+    <h2 style="text-align: center;"><a href="{{buy_link}}" class="buy-button-primary">Buy Now (All Formats)</a></h2>
+    {{/buy_link}}
+    
+    <!-- Paperback Retailers -->
+    <h3>Paperback</h3>
+    <div class="buy-links paperback-links">
+        {{#buy_paperback_abebook}}<a href="{{buy_paperback_abebook}}" class="buy-button" target="_blank">AbeBooks</a>{{/buy_paperback_abebook}}
+        {{#buy_paperback_amazon}}<a href="{{buy_paperback_amazon}}" class="buy-button" target="_blank">Amazon</a>{{/buy_paperback_amazon}}
+        {{#buy_paperback_barnes_noble}}<a href="{{buy_paperback_barnes_noble}}" class="buy-button" target="_blank">Barnes & Noble</a>{{/buy_paperback_barnes_noble}}
+        {{#buy_paperback_bookshop_org}}<a href="{{buy_paperback_bookshop_org}}" class="buy-button" target="_blank">Bookshop.org</a>{{/buy_paperback_bookshop_org}}
+        {{#buy_paperback_libroworld}}<a href="{{buy_paperback_libroworld}}" class="buy-button" target="_blank">LibroWorld</a>{{/buy_paperback_libroworld}}
+        {{#buy_paperback_readings}}<a href="{{buy_paperback_readings}}" class="buy-button" target="_blank">Readings</a>{{/buy_paperback_readings}}
+        {{#buy_paperback_walmart}}<a href="{{buy_paperback_walmart}}" class="buy-button" target="_blank">Walmart</a>{{/buy_paperback_walmart}}
+    </div>
+
+    <!-- eBook Retailers -->
+    <h3>eBook</h3>
+    <div class="buy-links ebook-links">
+        {{#buy_ebook_apple}}<a href="{{buy_ebook_apple}}" class="buy-button" target="_blank">Apple Books</a>{{/buy_ebook_apple}}
+        {{#buy_ebook_barnes_noble}}<a href="{{buy_ebook_barnes_noble}}" class="buy-button" target="_blank">Barnes & Noble</a>{{/buy_ebook_barnes_noble}}
+        {{#buy_ebook_everand}}<a href="{{buy_ebook_everand}}" class="buy-button" target="_blank">Everand</a>{{/buy_ebook_everand}}
+        {{#buy_ebook_fable}}<a href="{{buy_ebook_fable}}" class="buy-button" target="_blank">Fable</a>{{/buy_ebook_fable}}
+        {{#buy_ebook_google}}<a href="{{buy_ebook_google}}" class="buy-button" target="_blank">Google Play</a>{{/buy_ebook_google}}
+        {{#buy_ebook_kobo}}<a href="{{buy_ebook_kobo}}" class="buy-button" target="_blank">Kobo</a>{{/buy_ebook_kobo}}
+        {{#buy_ebook_palace_marketplace}}<a href="{{buy_ebook_palace_marketplace}}" class="buy-button" target="_blank">Palace Marketplace</a>{{/buy_ebook_palace_marketplace}}
+        {{#buy_ebook_smashwords}}<a href="{{buy_ebook_smashwords}}" class="buy-button" target="_blank">Smashwords</a>{{/buy_ebook_smashwords}}
+        {{#buy_ebook_thalia}}<a href="{{buy_ebook_thalia}}" class="buy-button" target="_blank">Thalia</a>{{/buy_ebook_thalia}}
+        {{#buy_ebook_vivlio}}<a href="{{buy_ebook_vivlio}}" class="buy-button" target="_blank">Vivlio</a>{{/buy_ebook_vivlio}}
+    </div>
 </div>
 </article>
