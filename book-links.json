@@ -18,7 +18,9 @@
         "ebook": {
             "Amazon": "https://www.amazon.com/Amazing-Whisker-Warriors-Ashiq-Alibhai-ebook/dp/B0CG115N9H",
             "Apple": "https://books.apple.com/us/book/the-amazing-whisker-warriors/id6467469864",
+            "Barnes & Noble": "https://www.barnesandnoble.com/w/the-amazing-whisker-warriors-abdullah-ashiq/1144265212",
             "Everand": "https://www.everand.com/book/673051513/The-Amazing-Whisker-Warriors",
+            "Indigo": "https://www.indigo.ca/en-ca/the-amazing-whisker-warriors/858c6071-2582-3251-9eb0-86a4bddbabb3.html",
             "Kobo": "https://www.kobo.com/ww/en/ebook/the-amazing-whisker-warriors"
         }
     },
@@ -26,7 +28,9 @@
         "paperback": {
             "AbeBooks": "https://www.abebooks.com/9798223507673/Minaret-Adventures-Ashiq-Alibhai/plp",
             "Amazon": "https://www.amazon.com/Minaret-Adventures-Ashiq-Alibhai/dp/B0CJXR457Q",
+            "Barnes & Noble": "https://www.barnesandnoble.com/w/minaret-adventures-ashiq-alibhai/1144118656",
             "Bookshop.org": "https://bookshop.org/p/books/minaret-adventures-ashiq-alibhai/21562759?ean=9798223507673",
+            "Indigo": "https://www.indigo.ca/en-ca/minaret-adventures/9798223507673.html",
             "Walmart": "https://www.walmart.com/ip/Minaret-Adventures-Paperback-9798223507673/5066246779"
         },
         "ebook": {
@@ -34,20 +38,6 @@
             "Apple": "https://books.apple.com/us/book/minaret-adventures/id6467591704",
             "Everand": "https://www.everand.com/book/673401364/Minaret-Adventures",
             "Kobo": "https://www.kobo.com/ww/en/ebook/minaret-adventures"
-        }
-    },
-    "the-last-standing-dragon": {
-        "paperback": {
-            "AbeBooks": "https://www.abebooks.com/9798231540235/Last-Standing-Dragon-Alibhai-Ashiq/plp",
-            "Amazon": "https://www.amazon.com/Last-Standing-Dragon-Ashiq-Alibhai/dp/B0FC88CW6X",
-            "Barnes & Noble": "https://www.barnesandnoble.com/w/the-last-standing-dragon-ashiq-alibhai/1147533265?ean=9798231540235",
-            "Bookshop.org": "https://bookshop.org/p/books/the-last-standing-dragon-abdurrahman-ashiq/957f715c29da829f?ean=9798231540235"
-        },
-        "ebook": {
-            "Amazon": "https://www.amazon.com/Last-Standing-Dragon-Ashiq-Alibhai-ebook/dp/B0DW91NMM4",
-            "Barnes & Noble": "https://www.barnesandnoble.com/w/the-last-standing-dragon-ashiq-alibhai/1147533265?ean=2940181239579",
-            "Everand": "https://www.everand.com/book/871985004/The-Last-Standing-Dragon",
-            "Kobo": "https://www.kobo.com/ww/en/ebook/the-last-standing-dragon"
         }
     },
     "the-green-beast": {
@@ -70,6 +60,21 @@
             "Smashwords": "https://www.smashwords.com/books/view/1756499",
             "Thalia": "https://www.thalia.de/shop/home/artikeldetails/A1075122393",
             "Vivlio": "https://shop.vivlio.com/product/9798231893621_9798231893621_10020/the-green-beast"
+        }
+    },
+    "the-last-standing-dragon": {
+        "paperback": {
+            "AbeBooks": "https://www.abebooks.com/9798231540235/Last-Standing-Dragon-Alibhai-Ashiq/plp",
+            "Amazon": "https://www.amazon.com/Last-Standing-Dragon-Ashiq-Alibhai/dp/B0FC88CW6X",
+            "Barnes & Noble": "https://www.barnesandnoble.com/w/the-last-standing-dragon-ashiq-alibhai/1147533265?ean=9798231540235",
+            "Bookshop.org": "https://bookshop.org/p/books/the-last-standing-dragon-abdurrahman-ashiq/957f715c29da829f?ean=9798231540235"
+        },
+        "ebook": {
+            "Amazon": "https://www.amazon.com/Last-Standing-Dragon-Ashiq-Alibhai-ebook/dp/B0DW91NMM4",
+            "Barnes & Noble": "https://www.barnesandnoble.com/w/the-last-standing-dragon-ashiq-alibhai/1147533265?ean=2940181239579",
+            "Everand": "https://www.everand.com/book/871985004/The-Last-Standing-Dragon",
+            "Indigo": "https://www.indigo.ca/en-ca/the-last-standing-dragon/81c7b8bf-f247-3047-a97a-701fd373a96c.html",
+            "Kobo": "https://www.kobo.com/ww/en/ebook/the-last-standing-dragon"
         }
     }
 }
