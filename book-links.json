@@ -8,7 +8,11 @@
             "Apple": "https://books.apple.com/ca/book/dr-vortexs-web-of-shadows/id6467467915",
             "Barnes & Noble": "https://www.barnesandnoble.com/w/dr-vortexs-web-of-shadows-ashiq-alibhai/1144112875?ean=2940167257603",
             "Everand": "https://www.everand.com/book/673036972/Dr-Vortex-s-Web-of-Shadows",
-            "Kobo": "https://www.kobo.com/ww/en/ebook/dr-vortex-s-web-of-shadows"
+            "Fable": "https://fable.co/book/x-9798223825661",
+            "Kobo": "https://www.kobo.com/ww/en/ebook/dr-vortex-s-web-of-shadows",
+            "Smashwords": "https://www.smashwords.com/books/view/1455881",
+            "Thalia": "https://www.thalia.de/shop/home/artikeldetails/A1069849958",
+            "Vivlio": "https://shop.vivlio.com/product/9798223825661_9798223825661_10020/dr-vortexs-web-of-shadows"
         }
     },
     "the-amazing-whisker-warriors": {
@@ -20,8 +24,12 @@
             "Apple": "https://books.apple.com/us/book/the-amazing-whisker-warriors/id6467469864",
             "Barnes & Noble": "https://www.barnesandnoble.com/w/the-amazing-whisker-warriors-abdullah-ashiq/1144265212",
             "Everand": "https://www.everand.com/book/673051513/The-Amazing-Whisker-Warriors",
+            "Fable": "https://fable.co/book/x-9798223190530",
             "Indigo": "https://www.indigo.ca/en-ca/the-amazing-whisker-warriors/858c6071-2582-3251-9eb0-86a4bddbabb3.html",
-            "Kobo": "https://www.kobo.com/ww/en/ebook/the-amazing-whisker-warriors"
+            "Kobo": "https://www.kobo.com/ww/en/ebook/the-amazing-whisker-warriors",
+            "Smashwords": "https://www.smashwords.com/books/view/1455895",
+            "Thalia": "http://thalia.de/shop/home/artikeldetails/A1069849985",
+            "Vivlio": "https://shop.vivlio.com/product/9798223190530_9798223190530_10020/the-amazing-whisker-warriors"
         }
     },
     "minaret-adventures": {
@@ -36,6 +44,7 @@
         "ebook": {
             "Amazon": "https://www.amazon.com/Minaret-Adventures-Ashiq-Alibhai-ebook/dp/B0CK9R86YL",
             "Apple": "https://books.apple.com/us/book/minaret-adventures/id6467591704",
+            "Barnes & Noble": "https://www.barnesandnoble.com/w/minaret-adventures-ashiq-alibhai/1144118656?ean=2940179090786",
             "Everand": "https://www.everand.com/book/673401364/Minaret-Adventures",
             "Kobo": "https://www.kobo.com/ww/en/ebook/minaret-adventures"
         }
@@ -56,7 +65,6 @@
             "Everand": "https://www.everand.com/book/853767988/The-Green-Beast",
             "Fable": "https://fable.co/book/x-9798231893621",
             "Kobo": "https://www.kobo.com/ca/en/ebook/the-green-beast-1?sId=e0bbcb7e-5765-45b4-9da4-c13b64c5e1d6&ssId=E3jA6ugdpBaul0g0-fgbA",
-            "Palace Marketplace": "https://market.thepalaceproject.org/item/6625475",
             "Smashwords": "https://www.smashwords.com/books/view/1756499",
             "Thalia": "https://www.thalia.de/shop/home/artikeldetails/A1075122393",
             "Vivlio": "https://shop.vivlio.com/product/9798231893621_9798231893621_10020/the-green-beast"
