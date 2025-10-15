@@ -22,9 +22,12 @@
             "Kobo": "https://www.kobo.com/ww/en/ebook/the-amazing-whisker-warriors"
         }
     },
-     "minaret-adventures": {
+    "minaret-adventures": {
         "paperback": {
-            "Amazon": "https://www.amazon.com/Minaret-Adventures-Ashiq-Alibhai/dp/B0CJXR457Q"
+            "AbeBooks": "https://www.abebooks.com/9798223507673/Minaret-Adventures-Ashiq-Alibhai/plp",
+            "Amazon": "https://www.amazon.com/Minaret-Adventures-Ashiq-Alibhai/dp/B0CJXR457Q",
+            "Bookshop.org": "https://bookshop.org/p/books/minaret-adventures-ashiq-alibhai/21562759?ean=9798223507673",
+            "Walmart": "https://www.walmart.com/ip/Minaret-Adventures-Paperback-9798223507673/5066246779"
         },
         "ebook": {
             "Amazon": "https://www.amazon.com/Minaret-Adventures-Ashiq-Alibhai-ebook/dp/B0CK9R86YL",
@@ -35,7 +38,10 @@
     },
     "the-last-standing-dragon": {
         "paperback": {
-            "Amazon": "https://www.amazon.com/Last-Standing-Dragon-Ashiq-Alibhai/dp/B0FC88CW6X"
+            "AbeBooks": "https://www.abebooks.com/9798231540235/Last-Standing-Dragon-Alibhai-Ashiq/plp",
+            "Amazon": "https://www.amazon.com/Last-Standing-Dragon-Ashiq-Alibhai/dp/B0FC88CW6X",
+            "Barnes & Noble": "https://www.barnesandnoble.com/w/the-last-standing-dragon-ashiq-alibhai/1147533265?ean=9798231540235",
+            "Bookshop.org": "https://bookshop.org/p/books/the-last-standing-dragon-abdurrahman-ashiq/957f715c29da829f?ean=9798231540235"
         },
         "ebook": {
             "Amazon": "https://www.amazon.com/Last-Standing-Dragon-Ashiq-Alibhai-ebook/dp/B0DW91NMM4",
