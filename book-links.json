@@ -1,4 +1,49 @@
 {
+    "dr-vortex-web-of-shadows": {
+        "paperback": {
+            "Amazon": "https://www.amazon.com/Doctor-Vortexs-Web-Shadows-Darkness/dp/B0C9KCHZF8"
+        },
+        "ebook": {
+            "Amazon": "https://www.amazon.com/Doctor-Vortexs-Web-Shadows-Darkness-ebook/dp/B0C9GQ7QL3",
+            "Apple": "https://books.apple.com/ca/book/dr-vortexs-web-of-shadows/id6467467915",
+            "Barnes & Noble": "https://www.barnesandnoble.com/w/dr-vortexs-web-of-shadows-ashiq-alibhai/1144112875?ean=2940167257603",
+            "Everand": "https://www.everand.com/book/673036972/Dr-Vortex-s-Web-of-Shadows",
+            "Kobo": "https://www.kobo.com/ww/en/ebook/dr-vortex-s-web-of-shadows"
+        }
+    },
+    "the-amazing-whisker-warriors": {
+        "paperback": {
+            "Amazon": "https://www.amazon.com/Amazing-Whisker-Warriors-Ashiq-Alibhai/dp/B0CFZJK6R5"
+        },
+        "ebook": {
+            "Amazon": "https://www.amazon.com/Amazing-Whisker-Warriors-Ashiq-Alibhai-ebook/dp/B0CG115N9H",
+            "Apple": "https://books.apple.com/us/book/the-amazing-whisker-warriors/id6467469864",
+            "Everand": "https://www.everand.com/book/673051513/The-Amazing-Whisker-Warriors",
+            "Kobo": "https://www.kobo.com/ww/en/ebook/the-amazing-whisker-warriors"
+        }
+    },
+     "minaret-adventures": {
+        "paperback": {
+            "Amazon": "https://www.amazon.com/Minaret-Adventures-Ashiq-Alibhai/dp/B0CJXR457Q"
+        },
+        "ebook": {
+            "Amazon": "https://www.amazon.com/Minaret-Adventures-Ashiq-Alibhai-ebook/dp/B0CK9R86YL",
+            "Apple": "https://books.apple.com/us/book/minaret-adventures/id6467591704",
+            "Everand": "https://www.everand.com/book/673401364/Minaret-Adventures",
+            "Kobo": "https://www.kobo.com/ww/en/ebook/minaret-adventures"
+        }
+    },
+    "the-last-standing-dragon": {
+        "paperback": {
+            "Amazon": "https://www.amazon.com/Last-Standing-Dragon-Ashiq-Alibhai/dp/B0FC88CW6X"
+        },
+        "ebook": {
+            "Amazon": "https://www.amazon.com/Last-Standing-Dragon-Ashiq-Alibhai-ebook/dp/B0DW91NMM4",
+            "Barnes & Noble": "https://www.barnesandnoble.com/w/the-last-standing-dragon-ashiq-alibhai/1147533265?ean=2940181239579",
+            "Everand": "https://www.everand.com/book/871985004/The-Last-Standing-Dragon",
+            "Kobo": "https://www.kobo.com/ww/en/ebook/the-last-standing-dragon"
+        }
+    },
     "the-green-beast": {
         "paperback": {
             "AbeBook": "https://www.abebooks.com/9798231912230/Green-Beast-Alibhai-Ashiq/plp",
