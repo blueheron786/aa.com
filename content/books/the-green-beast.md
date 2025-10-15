@@ -9,7 +9,7 @@ cover: the-green-beast.jpg
 buy_link: https://books2read.com/greenbeast
 
 # Paperback retailers
-buy_paperback_abebook: https://www.abebooks.com/9798231912230/Green-Beast-Alibhai-Ashiq/plp
+buy_paperback_abebooks: https://www.abebooks.com/9798231912230/Green-Beast-Alibhai-Ashiq/plp
 buy_paperback_amazon: https://www.amazon.com/Green-Beast-Ashiq-Alibhai/dp/B0F7FRD7WY/
 buy_paperback_barnes_noble: https://www.barnesandnoble.com/w/the-green-beast-ashiq-alibhai/1147338524?ean=9798231912230
 buy_paperback_bookshop_org: https://bookshop.org/p/books/the-green-beast-ashiq-alibhai/9766d1b4d253e770?ean=9798231912230&next=t&next=t
@@ -25,7 +25,6 @@ buy_ebook_everand: https://www.everand.com/book/853767988/The-Green-Beast
 buy_ebook_fable: https://fable.co/book/x-9798231893621
 buy_ebook_indigo: https://www.indigo.ca/en-ca/the-green-beast/a6b02fcd-1c25-3198-94f8-c7bd0a0e62ee.html
 buy_ebook_kobo: https://www.kobo.com/ca/en/ebook/the-green-beast-1?sId=e0bbcb7e-5765-45b4-9da4-c13b64c5e1d6&ssId=E3jA6ugdpBaul0g0-fgbA
-buy_ebook_palace_marketplace: https://market.thepalaceproject.org/item/6625475
 buy_ebook_smashwords: https://www.smashwords.com/books/view/1756499
 buy_ebook_thalia: https://www.thalia.de/shop/home/artikeldetails/A1075122393
 buy_ebook_vivlio: https://shop.vivlio.com/product/9798231893621_9798231893621_10020/the-green-beast
