@@ -55,28 +55,6 @@
             "Vivlio": "https://shop.vivlio.com/product/9798223582090_9798223582090_10020/minaret-adventures"
         }
     },
-    "the-last-standing-dragon": {
-        "paperback": {
-            "AbeBooks": "https://www.abebooks.com/9798231540235/Last-Standing-Dragon-Alibhai-Ashiq/plp",
-            "Amazon": "https://www.amazon.com/Last-Standing-Dragon-Ashiq-Alibhai/dp/B0FC88CW6X",
-            "Barnes & Noble": "https://www.barnesandnoble.com/w/the-last-standing-dragon-ashiq-alibhai/1147533265?ean=9798231540235",
-            "Bookshop.org": "https://bookshop.org/p/books/the-last-standing-dragon-abdurrahman-ashiq/957f715c29da829f?ean=9798231540235",
-            "Thalia": "https://www.thalia.de/shop/home/artikeldetails/A1075600306",
-            "Walmart": "https://www.walmart.com/ip/The-Last-Standing-Dragon-Paperback-9798231540235/16763124603?classType=REGULAR"
-        },
-        "ebook": {
-            "Apple": "https://books.apple.com/us/book/the-last-standing-dragon/id6746807990",
-            "Amazon": "https://www.amazon.com/Last-Standing-Dragon-Ashiq-Alibhai-ebook/dp/B0DW91NMM4",
-            "Barnes & Noble": "https://www.barnesandnoble.com/w/the-last-standing-dragon-ashiq-alibhai/1147533265?ean=2940181239579",
-            "Everand": "https://www.everand.com/book/871985004/The-Last-Standing-Dragon",
-            "Fable": "https://fable.co/book/x-9798231484836",
-            "Indigo": "https://www.indigo.ca/en-ca/the-last-standing-dragon/81c7b8bf-f247-3047-a97a-701fd373a96c.html",
-            "Kobo": "https://www.kobo.com/ww/en/ebook/the-last-standing-dragon",
-            "Smashwords": "https://www.smashwords.com/books/view/1783853",
-            "Thalia": "https://www.thalia.de/shop/home/artikeldetails/A1075600306",
-            "Vivlio": "https://shop.vivlio.com/product/9798231484836_9798231484836_10020/the-last-standing-dragon",
-        }
-    },
     "the-green-beast": {
         "paperback": {
             "AbeBook": "https://www.abebooks.com/9798231912230/Green-Beast-Alibhai-Ashiq/plp",
@@ -98,6 +76,28 @@
             "Smashwords": "https://www.smashwords.com/books/view/1756499",
             "Thalia": "https://www.thalia.de/shop/home/artikeldetails/A1075122393",
             "Vivlio": "https://shop.vivlio.com/product/9798231893621_9798231893621_10020/the-green-beast"
+        }
+    },
+    "the-last-standing-dragon": {
+        "paperback": {
+            "AbeBooks": "https://www.abebooks.com/9798231540235/Last-Standing-Dragon-Alibhai-Ashiq/plp",
+            "Amazon": "https://www.amazon.com/Last-Standing-Dragon-Ashiq-Alibhai/dp/B0FC88CW6X",
+            "Barnes & Noble": "https://www.barnesandnoble.com/w/the-last-standing-dragon-ashiq-alibhai/1147533265?ean=9798231540235",
+            "Bookshop.org": "https://bookshop.org/p/books/the-last-standing-dragon-abdurrahman-ashiq/957f715c29da829f?ean=9798231540235",
+            "Thalia": "https://www.thalia.de/shop/home/artikeldetails/A1075600306",
+            "Walmart": "https://www.walmart.com/ip/The-Last-Standing-Dragon-Paperback-9798231540235/16763124603?classType=REGULAR"
+        },
+        "ebook": {
+            "Apple": "https://books.apple.com/us/book/the-last-standing-dragon/id6746807990",
+            "Amazon": "https://www.amazon.com/Last-Standing-Dragon-Ashiq-Alibhai-ebook/dp/B0DW91NMM4",
+            "Barnes & Noble": "https://www.barnesandnoble.com/w/the-last-standing-dragon-ashiq-alibhai/1147533265?ean=2940181239579",
+            "Everand": "https://www.everand.com/book/871985004/The-Last-Standing-Dragon",
+            "Fable": "https://fable.co/book/x-9798231484836",
+            "Indigo": "https://www.indigo.ca/en-ca/the-last-standing-dragon/81c7b8bf-f247-3047-a97a-701fd373a96c.html",
+            "Kobo": "https://www.kobo.com/ww/en/ebook/the-last-standing-dragon",
+            "Smashwords": "https://www.smashwords.com/books/view/1783853",
+            "Thalia": "https://www.thalia.de/shop/home/artikeldetails/A1075600306",
+            "Vivlio": "https://shop.vivlio.com/product/9798231484836_9798231484836_10020/the-last-standing-dragon",
         }
     }
 }
