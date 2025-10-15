@@ -122,6 +122,32 @@
   color: #333;
 }
 
+/* Paperback-specific styling */
+.paperback-links .buy-button {
+  background-color: #f5e6d3;
+  border-color: #d4a574;
+  color: #5d4037;
+}
+
+.paperback-links .buy-button:hover {
+  background-color: #e8d4b8;
+  border-color: #b8935f;
+  color: #3e2723;
+}
+
+/* eBook-specific styling */
+.ebook-links .buy-button {
+  background-color: #e3f2fd;
+  border-color: #90caf9;
+  color: #0d47a1;
+}
+
+.ebook-links .buy-button:hover {
+  background-color: #bbdefb;
+  border-color: #64b5f6;
+  color: #01579b;
+}
+
 /************** Buy Links Mobile ****************/
 
 @media (max-width: 768px) {
