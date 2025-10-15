@@ -159,7 +159,7 @@ def update_book_file(book_path: Path, book_slug: str, book_data: Dict[str, Any])
 def main():
     """Main entry point."""
     # Load book links data
-    links_file = Path(__file__).parent / 'content' / 'book-links.json'
+    links_file = Path(__file__).parent / 'book-links.json'
     books_dir = Path(__file__).parent / 'content' / 'books'
     
     if not links_file.exists():
