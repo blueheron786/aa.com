@@ -1,7 +1,7 @@
 {
     "dr-vortex-web-of-shadows": {
         "paperback": {
-            "Amazon": "https://www.amazon.com/Doctor-Vortexs-Web-Shadows-Darkness/dp/B0C9KCHZF8"
+            "Amazon": "https://www.amazon.com/Doctor-Vortexs-Web-Shadows-Darkness/dp/B0C9KCHZF8",
         },
         "ebook": {
             "Amazon": "https://www.amazon.com/Doctor-Vortexs-Web-Shadows-Darkness-ebook/dp/B0C9GQ7QL3",
@@ -9,6 +9,7 @@
             "Barnes & Noble": "https://www.barnesandnoble.com/w/dr-vortexs-web-of-shadows-ashiq-alibhai/1144112875?ean=2940167257603",
             "Everand": "https://www.everand.com/book/673036972/Dr-Vortex-s-Web-of-Shadows",
             "Fable": "https://fable.co/book/x-9798223825661",
+            "Indigo": "https://www.indigo.ca/en-ca/dr.-vortexs-web-of-shadows/5ef1b336-cf0a-3942-b118-4ddbeecb9677.html",
             "Kobo": "https://www.kobo.com/ww/en/ebook/dr-vortex-s-web-of-shadows",
             "Smashwords": "https://www.smashwords.com/books/view/1455881",
             "Thalia": "https://www.thalia.de/shop/home/artikeldetails/A1069849958",
@@ -36,9 +37,9 @@
         "paperback": {
             "AbeBooks": "https://www.abebooks.com/9798223507673/Minaret-Adventures-Ashiq-Alibhai/plp",
             "Amazon": "https://www.amazon.com/Minaret-Adventures-Ashiq-Alibhai/dp/B0CJXR457Q",
-            "Barnes & Noble": "https://www.barnesandnoble.com/w/minaret-adventures-ashiq-alibhai/1144118656",
             "Bookshop.org": "https://bookshop.org/p/books/minaret-adventures-ashiq-alibhai/21562759?ean=9798223507673",
             "Indigo": "https://www.indigo.ca/en-ca/minaret-adventures/9798223507673.html",
+            "Thalia": "https://www.thalia.de/shop/home/artikeldetails/A1069860503",
             "Walmart": "https://www.walmart.com/ip/Minaret-Adventures-Paperback-9798223507673/5066246779"
         },
         "ebook": {
@@ -46,7 +47,12 @@
             "Apple": "https://books.apple.com/us/book/minaret-adventures/id6467591704",
             "Barnes & Noble": "https://www.barnesandnoble.com/w/minaret-adventures-ashiq-alibhai/1144118656?ean=2940179090786",
             "Everand": "https://www.everand.com/book/673401364/Minaret-Adventures",
-            "Kobo": "https://www.kobo.com/ww/en/ebook/minaret-adventures"
+            "Fable": "https://fable.co/book/x-9798223582090",
+            "Indigo": "https://www.indigo.ca/en-ca/minaret-adventures/9af8998a-c157-31be-87c6-02efe097d9ae.html",
+            "Kobo": "https://www.kobo.com/ww/en/ebook/minaret-adventures",
+            "Smashwords": "https://www.smashwords.com/books/view/1456578",
+            "Thalia": "https://www.thalia.de/shop/home/artikeldetails/A1069860503",
+            "Vivlio": "https://shop.vivlio.com/product/9798223582090_9798223582090_10020/minaret-adventures",
         }
     },
     "the-green-beast": {
