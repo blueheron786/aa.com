@@ -130,7 +130,7 @@ def update_book_file(book_path: Path, book_slug: str, book_data: Dict[str, Any])
     
     # Add paperback links
     if 'paperback' in book_data:
-        for retailer, url in book_data['paperback'].items():
+        for retailer, url in sorted(book_data['paperback'].items()):
             field_name = f"buy_paperback_{sanitize_retailer_name(retailer)}"
             if frontmatter.get(field_name) != url:
                 frontmatter[field_name] = url
@@ -138,7 +138,7 @@ def update_book_file(book_path: Path, book_slug: str, book_data: Dict[str, Any])
     
     # Add ebook links
     if 'ebook' in book_data:
-        for retailer, url in book_data['ebook'].items():
+        for retailer, url in sorted(book_data['ebook'].items()):
             field_name = f"buy_ebook_{sanitize_retailer_name(retailer)}"
             if frontmatter.get(field_name) != url:
                 frontmatter[field_name] = url
