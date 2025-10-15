@@ -7,6 +7,21 @@ slug: dr-vortex-web-of-shadows
 summary: Embark on an electrifying journey through the captivating world of "the Battle Against SHADOW's Darkness." Crafted specifically for teenagers seeking gripping adventures, and cherished by parents who value meaningful reads, this extraordinary sci-fi tale intertwines mystery, friendship, and the power of faith.
 cover: dr-vortex.jpg
 buy_link: https://books2read.com/u/47dB98
+
+# Paperback retailers
+buy_paperback_amazon: https://www.amazon.com/Doctor-Vortexs-Web-Shadows-Darkness/dp/B0C9KCHZF8
+
+# eBook retailers
+buy_ebook_amazon: https://www.amazon.com/Doctor-Vortexs-Web-Shadows-Darkness-ebook/dp/B0C9GQ7QL3
+buy_ebook_apple: https://books.apple.com/ca/book/dr-vortexs-web-of-shadows/id6467467915
+buy_ebook_barnes_noble: https://www.barnesandnoble.com/w/dr-vortexs-web-of-shadows-ashiq-alibhai/1144112875?ean=2940167257603
+buy_ebook_everand: https://www.everand.com/book/673036972/Dr-Vortex-s-Web-of-Shadows
+buy_ebook_fable: https://fable.co/book/x-9798223825661
+buy_ebook_indigo: https://www.indigo.ca/en-ca/dr.-vortexs-web-of-shadows/5ef1b336-cf0a-3942-b118-4ddbeecb9677.html
+buy_ebook_kobo: https://www.kobo.com/ww/en/ebook/dr-vortex-s-web-of-shadows
+buy_ebook_smashwords: https://www.smashwords.com/books/view/1455881
+buy_ebook_thalia: https://www.thalia.de/shop/home/artikeldetails/A1069849958
+buy_ebook_vivlio: https://shop.vivlio.com/product/9798223825661_9798223825661_10020/dr-vortexs-web-of-shadows
 ---
 
 Embark on an electrifying journey through the captivating world of "the Battle Against SHADOW's Darkness." Crafted specifically for teenagers seeking gripping adventures, and cherished by parents who value meaningful reads, this extraordinary sci-fi tale intertwines mystery, friendship, and the power of faith.

@@ -7,6 +7,26 @@ slug: minaret-adventures
 summary: Embark on a literary journey with a collection of 12 mesmerizing short stories that weave together fantasy, modern-day dilemmas, and futuristic adventures, all while placing Islam and Muslims at the heart of each narrative.
 cover: minaret-adventures.jpg
 buy_link: https://books2read.com/u/3kBkVN
+
+# Paperback retailers
+buy_paperback_abebooks: https://www.abebooks.com/9798223507673/Minaret-Adventures-Ashiq-Alibhai/plp
+buy_paperback_amazon: https://www.amazon.com/Minaret-Adventures-Ashiq-Alibhai/dp/B0CJXR457Q
+buy_paperback_bookshop_org: https://bookshop.org/p/books/minaret-adventures-ashiq-alibhai/21562759?ean=9798223507673
+buy_paperback_indigo: https://www.indigo.ca/en-ca/minaret-adventures/9798223507673.html
+buy_paperback_thalia: https://www.thalia.de/shop/home/artikeldetails/A1069860503
+buy_paperback_walmart: https://www.walmart.com/ip/Minaret-Adventures-Paperback-9798223507673/5066246779
+
+# eBook retailers
+buy_ebook_amazon: https://www.amazon.com/Minaret-Adventures-Ashiq-Alibhai-ebook/dp/B0CK9R86YL
+buy_ebook_apple: https://books.apple.com/us/book/minaret-adventures/id6467591704
+buy_ebook_barnes_noble: https://www.barnesandnoble.com/w/minaret-adventures-ashiq-alibhai/1144118656?ean=2940179090786
+buy_ebook_everand: https://www.everand.com/book/673401364/Minaret-Adventures
+buy_ebook_fable: https://fable.co/book/x-9798223582090
+buy_ebook_indigo: https://www.indigo.ca/en-ca/minaret-adventures/9af8998a-c157-31be-87c6-02efe097d9ae.html
+buy_ebook_kobo: https://www.kobo.com/ww/en/ebook/minaret-adventures
+buy_ebook_smashwords: https://www.smashwords.com/books/view/1456578
+buy_ebook_thalia: https://www.thalia.de/shop/home/artikeldetails/A1069860503
+buy_ebook_vivlio: https://shop.vivlio.com/product/9798223582090_9798223582090_10020/minaret-adventures
 ---
 
 Embark on a literary journey with a collection of 12 mesmerizing short stories that weave together fantasy, modern-day dilemmas, and futuristic adventures, all while placing Islam and Muslims at the heart of each narrative.
