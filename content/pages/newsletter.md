@@ -4,11 +4,13 @@ Date: 2025-04-29
 
 ## Get the Latest Scoop + Free Stuff
 
-Want behind-the-scenes notes, exclusive previews, and early access to new releases?  
+Join the mailing list to receive:
 
-Join my newsletter to stay in the loop. I’ll only email when I have something worth sharing — no spam, ever.
+- **The first chapter of my latest book**
+- Sneak peeks at new books (first chapters included!)
+- Updates when new stories are released
+- Behind-the-scenes extras and exclusive content
 
-<!-- Replace this with your actual form embed code -->
+I’ll never spam you, share your email, or do anything weird with it. Just updates, extras, and first chapters — that’s it.
+
 <script async src="https://eocampaign1.com/form/3d1707e4-2517-11f0-9d7f-c9ea6d137334.js" data-form="3d1707e4-2517-11f0-9d7f-c9ea6d137334"></script>
-
-<!-- Prefer something less frequent? You can also follow me on [BlueSky](https://your.bluesky.link) or [Twitter](https://twitter.com/yourhandle). -->
