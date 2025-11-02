@@ -19,14 +19,14 @@ buy_paperback_walmart:
 
 # eBook retailers
 buy_ebook_apple: 
-buy_ebook_barnes_noble: 
-buy_ebook_everand: 
+buy_ebook_barnes_noble: https://www.barnesandnoble.com/w/the-coming-swarm-ashiq-alibhai/114866141
+buy_ebook_everand: https://www.everand.com/book/941576384/The-Coming-Swarm-Starborn-Beasts-1
 buy_ebook_fable: 
 buy_ebook_indigo: 
-buy_ebook_kobo: 
+buy_ebook_kobo: https://www.kobo.com/ca/en/ebook/the-coming-swarm-2
 buy_ebook_smashwords: https://www.smashwords.com/books/view/1892847
-buy_ebook_thalia: 
-buy_ebook_vivlio: 
+buy_ebook_thalia: https://www.thalia.de/shop/home/artikeldetails/A1077278063
+buy_ebook_vivlio: https://shop.vivlio.com/product/9798232065447_9798232065447_10020/the-coming-swarm
 ---
 
 When an ancient prison beneath a forgotten moon begins to fail, a lone Tromian engineer witnesses something impossible awaken. Across the galaxy, a stolen relic of the same origin vanishes into the underworld of deep-space trade, drawing thieves, scientists, and mercenaries into a spiraling mystery.
