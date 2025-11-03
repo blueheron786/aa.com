@@ -18,7 +18,8 @@ buy_paperback_thalia:
 buy_paperback_walmart: 
 
 # eBook retailers
-buy_ebook_apple: 
+buy_ebook_amazon: https://www.amazon.ca/dp/B0FZCPXHS2
+buy_ebook_apple: https://books.apple.com/us/book/the-coming-swarm/id6754800192
 buy_ebook_barnes_noble: https://www.barnesandnoble.com/w/the-coming-swarm-ashiq-alibhai/114866141
 buy_ebook_everand: https://www.everand.com/book/941576384/The-Coming-Swarm-Starborn-Beasts-1
 buy_ebook_fable: 

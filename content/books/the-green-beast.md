@@ -19,6 +19,7 @@ buy_paperback_thalia: https://www.thalia.de/shop/home/artikeldetails/A1075385298
 buy_paperback_walmart: https://www.walmart.com/ip/The-Green-Beast-Paperback-9798231912230/16325901146
 
 # eBook retailers
+buy_ebook_amazon: https://www.amazon.com/Green-Beast-Ashiq-Alibhai/dp/B0F7FRD7WY/
 buy_ebook_apple: https://books.apple.com/us/book/the-green-beast/id6745075492
 buy_ebook_barnes_noble: https://www.barnesandnoble.com/w/the-green-beast-ashiq-alibhai/1147338524?ean=2940181530195
 buy_ebook_everand: https://www.everand.com/book/853767988/The-Green-Beast
