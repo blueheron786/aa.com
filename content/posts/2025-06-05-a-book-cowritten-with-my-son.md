@@ -7,6 +7,8 @@ Summary: The Last Standing Dragon: A book co-written with my 8 year old
 
 ---
 
+![cover for The The Last Standing Dragon](/images/covers/the-last-standing-dragon.jpg)
+
 In the late 90s, and early 2000s, I read and wrote voraciously - mostly fantasy and some sci-fi. Unfortunately, I stopped writing around 2006, with a brief break in 2008 to write a novella.
 
 In 2023, when ChatGPT rose to fame, I decided to use it to answer two questions:
