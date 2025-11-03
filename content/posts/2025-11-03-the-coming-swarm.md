@@ -7,6 +7,8 @@ Summary: The story behind The Coming Swarm's eight stories
 
 ---
 
+![cover for The Coming Storm](/images/covers/the-coming-swarm.jpg)
+
 What if Star Wars' species were all anthropomorphic walking talking animals instead?
 
 This idea gripped me and refused to let go: an epic space saga where snakes fight cats, dogs with swords defend their kingdom, and intragalactic space combat is the norm. Inspired by Ninjago's Serpentine and Puss in Boots (among others), I decided to embark on an epic literary adventure.

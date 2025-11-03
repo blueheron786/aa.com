@@ -7,6 +7,8 @@ Summary: Where did the idea for a forlorn frog knight come from? A video game.
 
 ---
 
+![cover for The Green Beast](/images/covers/the-green-beast.jpg)
+
 In 1995, I first got my hands on Chrono Trigger, a seminal RPG (role-playing-game) that went on to become one of the best games of its genre, ever -- a veritable GOAT (Greatest of All Time).  The game follows the story of three time-travelling teenagers who stumble into the post-apocalyptic future, discover its cause, and do their best to save the future by adventuring through different quests that span multiple time periods.
 
 One of the main characters', Glenn, stuck with me for many years after. Rather than being a traditional knight story arc, Glenn suffers many losses:
