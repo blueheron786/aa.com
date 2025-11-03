@@ -17,4 +17,4 @@ So instead, after the initial inspiration died, I decided in late 2025 to give t
 
 The resulting work formed into **The Coming Swarm,** the first book, and a stepping-stone of sorts, into this new universe. It chronicles the tale of eight different species, and focuses around the coming of a ninth, extremely dangerous alien race, the Chyrrix.  Five of the stories directly relate to each other.
 
-If the idea of snakes and birds waging interplanetary war sounds interesting, give the book a try. You can [read more about the book here](/books/the-coming-swarm.html).
+If the idea of snakes and birds waging interplanetary war sounds interesting, give the book a try. You can [read more about the book here](/books/the-coming-swarm.html). It's currently available in e-book format, with print format coming soon, inshaAllah.
