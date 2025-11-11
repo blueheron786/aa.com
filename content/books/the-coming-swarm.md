@@ -8,10 +8,10 @@ summary: An ancient alien prison cracks open on a forgotten moon, unleashing a h
 cover: the-coming-swarm.jpg
 
 # Paperback retailers
-buy_paperback_abebooks: 
+buy_paperback_abebooks: https://www.abebooks.com/Coming-Swarm-Starborn-Beasts-Alibhai-Ashiq/32340351841/bd
 buy_paperback_amazon: https://www.amazon.ca/Coming-Swarm-Ashiq-Alibhai/dp/B0FZDV9P28
 buy_paperback_barnes_noble: https://www.barnesandnoble.com/w/the-coming-swarm-ashiq-alibhai/
-buy_paperback_bookshop_org: 
+buy_paperback_bookshop_org: https://bookshop.org/p/books/the-coming-swarm-ashiq-alibhai/ab6cedaf75f6b875?ean=9798232892395
 buy_paperback_libroworld: 
 buy_paperback_readings: 
 buy_paperback_thalia: https://www.thalia.de/shop/home/artikeldetails/A1077305790
