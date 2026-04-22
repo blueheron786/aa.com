@@ -22,6 +22,7 @@ buy_paperback_walmart: https://www.walmart.com/ip/The-Green-Beast-Paperback-9798
 buy_ebook_amazon: https://www.amazon.com/Green-Beast-Ashiq-Alibhai/dp/B0F7FRD7WY/
 buy_ebook_apple: https://books.apple.com/us/book/the-green-beast/id6745075492
 buy_ebook_barnes_noble: https://www.barnesandnoble.com/w/the-green-beast-ashiq-alibhai/1147338524?ean=2940181530195
+buy_ebook_bookshop_org: https://bookshop.org/p/books/the-green-beast-ashiq-alibhai/9766d1b4d253e770?ean=9798231893621&next=t&digital=t
 buy_ebook_everand: https://www.everand.com/book/853767988/The-Green-Beast
 buy_ebook_fable: https://fable.co/book/x-9798231893621
 buy_ebook_indigo: https://www.indigo.ca/en-ca/the-green-beast/a6b02fcd-1c25-3198-94f8-c7bd0a0e62ee.html

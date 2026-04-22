@@ -20,6 +20,7 @@ buy_paperback_walmart: https://www.walmart.com/ip/Minaret-Adventures-Paperback-9
 buy_ebook_amazon: https://www.amazon.com/Minaret-Adventures-Ashiq-Alibhai-ebook/dp/B0CK9R86YL
 buy_ebook_apple: https://books.apple.com/us/book/minaret-adventures/id6467591704
 buy_ebook_barnes_noble: https://www.barnesandnoble.com/w/minaret-adventures-ashiq-alibhai/1144118656?ean=2940179090786
+buy_ebook_bookshop_org: https://bookshop.org/p/books/minaret-adventures-ashiq-alibhai/0e5df31f0f81db75?ean=9798223582090&digital=t
 buy_ebook_everand: https://www.everand.com/book/673401364/Minaret-Adventures
 buy_ebook_fable: https://fable.co/book/x-9798223582090
 buy_ebook_indigo: https://www.indigo.ca/en-ca/minaret-adventures/9af8998a-c157-31be-87c6-02efe097d9ae.html

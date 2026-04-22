@@ -18,6 +18,7 @@ buy_paperback_walmart: https://www.walmart.com/ip/Time-Jumpers-Unmarked-Book-1-P
 # eBook retailers
 buy_ebook_apple: https://books.apple.com/us/book/unmarked/id6758116009
 buy_ebook_barnes_noble: https://www.barnesandnoble.com/w/unmarked-ashiq-alibhai/1149265845
+buy_ebook_bookshop_org: https://bookshop.org/p/books/unmarked-ashiq-alibhai/ed326e2bb3a0f9e4?ean=9798233796470&digital=t
 buy_ebook_everand: https://www.everand.com/book/985118576/Unmarked-Time-Jumpers-1
 buy_ebook_fable: https://fable.co/book/unmarked-by-ashiq-alibhai-9798233796470
 buy_ebook_indigo: https://www.indigo.ca/en-ca/unmarked-time-jumpers-1/07f3c098-c415-3aed-8826-e9640efd3610.html
