@@ -1,6 +1,6 @@
 ---
 title: Minaret Adventures
-datePublished: 2023-09-24
+date: 2023-09-24
 category: books
 template: book
 slug: minaret-adventures

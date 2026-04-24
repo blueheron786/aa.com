@@ -1,0 +1,48 @@
+{{ define "main" }}
+<article class="book-page">
+<header>
+  <h1>{{ .Title }}</h1>
+  <div class="book-cover">
+    <img src="/images/covers/{{ .Params.cover }}" alt="{{ .Title }} Cover">
+  </div>
+</header>
+
+<section class="book-description">
+  {{ .Content }}
+</section>
+
+<div class="cta">
+  <hr />
+  <h2>Buy Now</h2>
+  <hr />
+
+  <h3>Paperback</h3>
+  <div class="buy-links paperback-links">
+    {{ with .Params.buy_paperback_abebooks }}<a href="{{ . }}" class="buy-button">AbeBooks</a>{{ end }}
+    {{ with .Params.buy_paperback_amazon }}<a href="{{ . }}" class="buy-button">Amazon</a>{{ end }}
+    {{ with .Params.buy_paperback_barnes_noble }}<a href="{{ . }}" class="buy-button">Barnes &amp; Noble</a>{{ end }}
+    {{ with .Params.buy_paperback_bookshop_org }}<a href="{{ . }}" class="buy-button">Bookshop.org</a>{{ end }}
+    {{ with .Params.buy_paperback_indigo }}<a href="{{ . }}" class="buy-button">Indigo</a>{{ end }}
+    {{ with .Params.buy_paperback_libroworld }}<a href="{{ . }}" class="buy-button">LibroWorld</a>{{ end }}
+    {{ with .Params.buy_paperback_readings }}<a href="{{ . }}" class="buy-button">Readings</a>{{ end }}
+    {{ with .Params.buy_paperback_thalia }}<a href="{{ . }}" class="buy-button">Thalia</a>{{ end }}
+    {{ with .Params.buy_paperback_walmart }}<a href="{{ . }}" class="buy-button">Walmart</a>{{ end }}
+  </div>
+
+  <h3>eBook</h3>
+  <div class="buy-links ebook-links">
+    {{ with .Params.buy_ebook_amazon }}<a href="{{ . }}" class="buy-button">Amazon</a>{{ end }}
+    {{ with .Params.buy_ebook_apple }}<a href="{{ . }}" class="buy-button">Apple Books</a>{{ end }}
+    {{ with .Params.buy_ebook_barnes_noble }}<a href="{{ . }}" class="buy-button">Barnes &amp; Noble</a>{{ end }}
+    {{ with .Params.buy_ebook_bookshop_org }}<a href="{{ . }}" class="buy-button">Bookshop.org</a>{{ end }}
+    {{ with .Params.buy_ebook_everand }}<a href="{{ . }}" class="buy-button">Everand</a>{{ end }}
+    {{ with .Params.buy_ebook_fable }}<a href="{{ . }}" class="buy-button">Fable</a>{{ end }}
+    {{ with .Params.buy_ebook_indigo }}<a href="{{ . }}" class="buy-button">Indigo</a>{{ end }}
+    {{ with .Params.buy_ebook_kobo }}<a href="{{ . }}" class="buy-button">Kobo</a>{{ end }}
+    {{ with .Params.buy_ebook_smashwords }}<a href="{{ . }}" class="buy-button">Smashwords</a>{{ end }}
+    {{ with .Params.buy_ebook_thalia }}<a href="{{ . }}" class="buy-button">Thalia</a>{{ end }}
+    {{ with .Params.buy_ebook_vivlio }}<a href="{{ . }}" class="buy-button">Vivlio</a>{{ end }}
+  </div>
+</div>
+</article>
+{{ end }}

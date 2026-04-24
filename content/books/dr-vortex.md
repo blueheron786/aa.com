@@ -1,6 +1,6 @@
 ---
 title: Dr. Vortex's Web of Shadows
-datePublished: 2023-06-27 10:00:00
+date: 2023-06-27 10:00:00
 category: books
 template: book
 slug: dr-vortex-web-of-shadows

@@ -1,6 +1,6 @@
 ---
 title: The Coming Swarm
-datePublished: 2025-10-31 20:00:00
+date: 2025-10-31 20:00:00
 category: books
 template: book
 slug: the-coming-swarm

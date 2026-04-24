@@ -1,0 +1,18 @@
+{{ define "main" }}
+<div class="books-grid">
+  {{ range .Pages }}
+  <article class="single book-row">
+    <div class="book-grid">
+      <div class="book-image">
+        <a href="{{ .Permalink }}"><img src="/images/covers/{{ .Params.cover }}" alt="{{ .Title }} cover"></a>
+      </div>
+      <div class="book-info">
+        <h2 class="book-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+        <p class="book-summary">{{ .Params.summary }}</p>
+        <p><a href="{{ .Permalink }}" class="read-more">Read more &#x2192;</a></p>
+      </div>
+    </div>
+  </article>
+  {{ end }}
+</div>
+{{ end }}

@@ -1,0 +1,36 @@
+{{ define "main" }}
+<h1>Ashiq Alibhai</h1>
+<p>Author of Islamic Fantasy and Science Fiction</p>
+
+<h2>&#x1F4DD; Latest Blog Posts</h2>
+<ul>
+  {{ range first 3 (where .Site.RegularPages "Section" "blog") }}
+  <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+  {{ end }}
+</ul>
+<a href="/blog/">View all posts &#x2192;</a>
+
+<h2>&#x1F4D6; Latest Books</h2>
+<div class="books-grid">
+  {{ range first 5 (where .Site.RegularPages "Section" "books") }}
+  <article class="single book-row">
+    <div class="book-grid">
+      <div class="book-image">
+        <a href="{{ .Permalink }}"><img src="/images/covers/{{ .Params.cover }}" alt="{{ .Title }} cover"></a>
+      </div>
+      <div class="book-info">
+        <h2 class="book-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+        <p class="book-summary">{{ .Params.summary }}</p>
+        <p><a href="{{ .Permalink }}" class="read-more">Read more &#x2192;</a></p>
+      </div>
+    </div>
+  </article>
+  {{ end }}
+</div>
+<a href="/books/">View all books &#x2192;</a>
+
+<h2>&#x1F9ED; About the Author</h2>
+<p>Ashiq Alibhai is a Muslim author and lifelong reader of fantasy and science fiction. His work explores the meeting point between faith, Islamic themes, and speculative worlds. His books are available worldwide in digital and physical formats through bookstores and libraries. He lives near Toronto with his family and their cat Marshmallow.</p>
+
+{{ partial "newsletter-signup.html" . }}
+{{ end }}

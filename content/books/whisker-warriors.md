@@ -1,6 +1,6 @@
 ---
 title: The Amazing Whisker Warriors
-datePublished: 2023-08-23 10:00:00
+date: 2023-08-23 10:00:00
 category: books
 template: book
 slug: the-amazing-whisker-warriors
