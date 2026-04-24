@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ if .IsHome }}ashiqalibhai.com{{ else }}ashiqalibhai.com - {{ .Title }}{{ end }}</title>
+  <link rel="stylesheet" href="/style.css">
+  <link rel="stylesheet" href="/book-styles.css">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+</head>
+<body>
+  <header>
+    <div class="header-container">
+      <nav class="navbar">
+        <a href="/">Home</a>
+        <a href="/blog/">Blog</a>
+        <a href="/books/">Books</a>
+        <a href="/newsletter.html">Newsletter</a>
+      </nav>
+    </div>
+  </header>
+  <main>
+    <div class="content-card">
+      {{ block "main" . }}{{ end }}
+    </div>
+  </main>
+  <footer>
+    &copy; {{ now.Year }} Ashiq Alibhai. All rights reserved.
+  </footer>
+  <script data-goatcounter="{{ .Site.Params.goatcounter }}"
+        async src="//gc.zgo.at/count.js"></script>
+</body>
+</html>

@@ -1,6 +1,6 @@
 ---
 title: The Green Beast
-datePublished: 2025-04-25 10:00:00
+date: 2025-04-25 10:00:00
 category: books
 template: book
 slug: the-green-beast

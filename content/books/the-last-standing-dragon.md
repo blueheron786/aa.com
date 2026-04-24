@@ -1,6 +1,6 @@
 ---
 title: The Last Standing Dragon
-datePublished: 2025-06-05 10:00:00
+date: 2025-06-05 10:00:00
 category: books
 template: book
 slug: the-last-standing-dragon

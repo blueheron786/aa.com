@@ -1,10 +1,9 @@
-Title: Three Jumps Through Time
-Date: 2026-01-13
-Category: blog
-Tags: writing, annoucement, inspiration
-Slug: three-jumps-through-time
-Summary: The story behind Unmarked, what started out as a sci-fi book.
-
+---
+title: "Three Jumps Through Time"
+date: 2026-01-13
+tags: [writing, announcement, inspiration]
+slug: three-jumps-through-time
+summary: "The story behind Unmarked, what started out as a sci-fi book."
 ---
 
 ![cover for Unmarked](/images/covers/unmarked.jpg)
@@ -17,4 +16,4 @@ Somewhere along the path of outlining what the book might be, I sidetracked from
 
 Unmarked tackles these, and other questions, through the lens of a 34-year-old clockmaker, Yasin Al-Razi, and his aging mother. They discover the catastrophic, impending collapse of the local dam, flooding and killing thousands. Should they jump into the future, and how far? What can they do to stop it? Or is it already destined to happen?
 
-You can [read more about the book here](/books/unmarked.html). 
+You can [read more about the book here](/books/unmarked/).

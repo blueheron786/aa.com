@@ -1,0 +1,15 @@
+baseURL = 'https://ashiqalibhai.com/'
+languageCode = 'en-us'
+title = 'Ashiq Alibhai'
+
+[params]
+  description = 'Author of Islamic Fantasy and Science Fiction'
+  goatcounter = 'https://blueheron.goatcounter.com/count'
+
+[taxonomies]
+  tag = 'tags'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

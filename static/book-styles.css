@@ -1,0 +1,168 @@
+.book-grid {
+    display: flex;
+    align-items: flex-start;
+    gap: 2rem;
+    margin-bottom: 3rem;
+  }
+  
+  .book-image img {
+    max-width: 180px;
+    height: auto;
+    border-radius: 8px; /* optional, rounded corners */
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); /* soft shadow */
+  }
+  
+  .book-info {
+    flex: 1;
+  }
+  
+  .book-title {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-size: 1.8rem;
+  }
+  
+  .book-summary {
+    font-size: 1rem;
+    margin-bottom: 1rem;
+  }
+  
+  .read-more {
+    font-weight: bold;
+    text-decoration: underline;
+  }
+  
+  /************** mobile ****************/
+
+  @media (max-width: 768px) {
+    .book-grid {
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+    }
+  
+    .book-image img {
+      max-width: 100%;
+      height: auto;
+    }
+  
+    .book-info {
+      width: 100%;
+    }
+  
+    .book-title {
+      font-size: 1.5rem;
+      margin-top: 1rem;
+    }
+  }
+
+/************** Buy Links ****************/
+
+.cta {
+  margin-top: 3rem;
+  text-align: center;
+}
+
+.cta h2 {
+  margin-bottom: 2rem;
+}
+
+.cta h3 {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  font-size: 1.4rem;
+}
+
+.buy-button-primary {
+  display: inline-block;
+  padding: 1rem 2rem;
+  background-color: #007bff;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  font-size: 1.2rem;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+  margin-bottom: 2rem;
+}
+
+.buy-button-primary:hover {
+  background-color: #0056b3;
+  color: white;
+}
+
+.buy-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  justify-content: center;
+  margin-bottom: 2rem;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.buy-button {
+  display: inline-block;
+  padding: 0.6rem 1.2rem;
+  background-color: #f8f9fa;
+  color: #333;
+  text-decoration: none;
+  border: 1px solid #dee2e6;
+  border-radius: 6px;
+  font-size: 0.95rem;
+  transition: all 0.2s ease;
+}
+
+.buy-button:hover {
+  background-color: #e9ecef;
+  border-color: #adb5bd;
+  transform: translateY(-2px);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  color: #333;
+}
+
+/* Paperback-specific styling */
+.paperback-links .buy-button {
+  background-color: #f5e6d3;
+  border-color: #d4a574;
+  color: #5d4037;
+}
+
+.paperback-links .buy-button:hover {
+  background-color: #e8d4b8;
+  border-color: #b8935f;
+  color: #3e2723;
+}
+
+/* eBook-specific styling */
+.ebook-links .buy-button {
+  background-color: #e3f2fd;
+  border-color: #90caf9;
+  color: #0d47a1;
+}
+
+.ebook-links .buy-button:hover {
+  background-color: #bbdefb;
+  border-color: #64b5f6;
+  color: #01579b;
+}
+
+/************** Buy Links Mobile ****************/
+
+@media (max-width: 768px) {
+  .buy-links {
+    gap: 0.5rem;
+  }
+  
+  .buy-button {
+    font-size: 0.85rem;
+    padding: 0.5rem 1rem;
+  }
+  
+  .buy-button-primary {
+    font-size: 1rem;
+    padding: 0.8rem 1.5rem;
+  }
+}
+  

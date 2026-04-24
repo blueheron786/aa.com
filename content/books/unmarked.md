@@ -1,10 +1,10 @@
 ---
 title: Unmarked
-datePublished: 2026-01-13 20:00:00
+date: 2026-01-13 20:00:00
 category: books
 template: book
 slug: unmarked
-summary: In a world where everyone can jump through time three times, clockmaker Yasin Al-Razi has never used a single jump. When a looming disaster threatens thousands and his mother's life hangs in the balance, Yasin faces an impossible choice: use a jump to gain certainty, or trust in faith and remain fully present—even when the future is terrifyingly unknown.
+summary: "In a world where everyone can jump through time three times, clockmaker Yasin Al-Razi has never used a single jump. When a looming disaster threatens thousands and his mother's life hangs in the balance, Yasin faces an impossible choice: use a jump to gain certainty, or trust in faith and remain fully present—even when the future is terrifyingly unknown."
 cover: unmarked.jpg
 
 # Paperback retailers
