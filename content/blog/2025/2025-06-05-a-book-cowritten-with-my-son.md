@@ -4,6 +4,7 @@ date: 2025-06-05
 tags: [writing, announcement, inspiration]
 slug: a-book-cowritten-with-my-son
 summary: "The Last Standing Dragon: A book co-written with my 8 year old"
+cover: the-last-standing-dragon.jpg
 ---
 
 ![cover for The Last Standing Dragon](/images/covers/the-last-standing-dragon.jpg)

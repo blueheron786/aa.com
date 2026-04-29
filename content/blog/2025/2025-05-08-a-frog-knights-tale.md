@@ -4,6 +4,8 @@ date: 2025-05-08
 tags: [writing, announcement, inspiration]
 slug: a-frog-knights-tale
 summary: "Where did the idea for a forlorn frog knight come from? A video game."
+cover: the-green-beast.jpg
+
 ---
 
 ![cover for The Green Beast](/images/covers/the-green-beast.jpg)

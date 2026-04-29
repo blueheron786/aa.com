@@ -4,6 +4,7 @@ date: 2026-01-13
 tags: [writing, announcement, inspiration]
 slug: three-jumps-through-time
 summary: "The story behind Unmarked, what started out as a sci-fi book."
+cover: unmarked.jpg
 ---
 
 ![cover for Unmarked](/images/covers/unmarked.jpg)

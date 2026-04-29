@@ -4,6 +4,7 @@ date: 2025-11-03
 tags: [writing, announcement, inspiration]
 slug: eight-stories-about-the-swarm
 summary: "The story behind The Coming Swarm's eight stories"
+cover: the-coming-swarm.jpg
 ---
 
 ![cover for The Coming Swarm](/images/covers/the-coming-swarm.jpg)

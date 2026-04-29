@@ -4,6 +4,7 @@ date: 2026-01-13
 tags: [writing, announcement, inspiration]
 slug: behind-the-shattered-twin
 summary: "The story behind the Shattered Twin and Crescent Academy."
+cover: crescent-academy-1.jpg
 ---
 
 ![cover for The Shattered Twin](/images/covers/crescent-academy-1.jpg)
