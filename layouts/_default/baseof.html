@@ -26,6 +26,9 @@
 
   <meta property="og:description" content="{{ $desc | truncate 200 }}">
   <meta property="og:image" content="{{ $img | absURL }}">
+  <meta property="og:title" content="{{ .Title }}">
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="{{ .Permalink }}">
     
 </head>
 <body>
