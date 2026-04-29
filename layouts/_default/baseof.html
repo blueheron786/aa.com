@@ -10,12 +10,21 @@
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
 
+  <!-- OpenGraph begins here. With an image (and a fallback). -->
   {{ $img := "/images/default-opengraph.png" }}
 
   {{ with .Params.cover }}
     {{ $img = printf "/images/covers/%s" . }}
   {{ end }}
 
+  <!-- OpenGraph description -->
+  {{ $desc := .Description }}
+
+  {{ if not $desc }}
+    {{ $desc = .Summary | plainify }}
+  {{ end }}
+
+  <meta property="og:description" content="{{ $desc | truncate 200 }}">
   <meta property="og:image" content="{{ $img | absURL }}">
     
 </head>
