@@ -1,1 +1,1 @@
-Made with Hugo!
+Made with Hugo! To debug, use `hugo serve` which populates `baseURL` as `localhost` correctly.
