@@ -24,7 +24,9 @@ This book also took me the longest time to write -- nearly three months, startin
 
 But, since my own nine year-old son reads voraciously, and since he helped both steer and edit the book, it may still (after weeks of revising and re-revising!) contain a few words other nine year-olds won't understand. But that's all part of the fun of reading Fantasy books, in my opinion.
 
-I planned an entire series of several books that complete the plot, anywhere from five to nine, with the next one somewhat firmly planned out. Like Harry Potter, each book is a self-contained "episode" that also advances the overall plot.
+ The book clocks in at 68k words, and 300 pages -- a full novel length, and has a correspondingly high printing cost. Although I price my books very close to cost price, the price is a hefty $23 (CAD).
+
+I planned an entire series of several books that complete the plot, anywhere from five to nine, with the next one somewhat firmly planned out. Each book is a self-contained "episode" that also advances the overall plot.
 
 And yes, talking cats.
 
