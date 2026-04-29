@@ -30,6 +30,6 @@ I planned an entire series of several books that complete the plot, anywhere fro
 
 And yes, talking cats.
 
-If that sounds interesting, give the book a look. You can [read more about the book here](/books/crescent-academy-1/).
+If that sounds interesting, give the book a look. You can [read more about the book here](/books/2026/crescent-academy-1/).
  
 P.S. full disclosure, the magical ninjas and dragon riders appear only briefly in book one!

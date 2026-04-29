@@ -16,4 +16,4 @@ Somewhere along the path of outlining what the book might be, I sidetracked from
 
 Unmarked tackles these, and other questions, through the lens of a 34-year-old clockmaker, Yasin Al-Razi, and his aging mother. They discover the catastrophic, impending collapse of the local dam, flooding and killing thousands. Should they jump into the future, and how far? What can they do to stop it? Or is it already destined to happen?
 
-You can [read more about the book here](/books/unmarked/).
+You can [read more about the book here](/books/2026/unmarked/).
