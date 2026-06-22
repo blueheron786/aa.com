@@ -1,6 +1,6 @@
 ---
 title: "Behind the Shattered Twin"
-date: 2026-01-13
+date: 2026-04-28
 tags: [writing, announcement, inspiration]
 slug: behind-the-shattered-twin
 summary: "The story behind the Shattered Twin and Crescent Academy."
@@ -9,7 +9,7 @@ cover: crescent-academy-1.jpg
 
 ![cover for The Shattered Twin](/images/covers/crescent-academy-1.jpg)
 
-My latest book, the Shattered TWin -- book one of the newly-minted Crescent Academy series -- takes a lot of inspiration from the Harry Potter series. All my kids love the Potter series, and read and re-read it several times, so it's no surprise that I would think them interested in something inspired, but more ... me.
+My latest book, the Shattered Twin -- book one of the newly-minted Crescent Academy series -- takes a lot of inspiration from the Harry Potter series. All my kids love the Potter series, and read and re-read it several times, so it's no surprise that I would think them interested in something inspired, but more ... me.
 
 What started out as "what if Harry Potter but with XYZ ideas from video games" ended up being the Crescent Academy series.  The series world includes:
 
