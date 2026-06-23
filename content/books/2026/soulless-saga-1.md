@@ -16,15 +16,15 @@ buy_paperback_thalia:
 buy_paperback_walmart: 
 
 # eBook retailers
-buy_ebook_apple: 
-buy_ebook_amazon: 
-buy_ebook_barnes_noble: 
-buy_ebook_bookshop_org: 
-buy_ebook_everand: 
-buy_ebook_fable: 
-buy_ebook_kobo: 
-buy_ebook_smashwords: 
-buy_ebook_thalia: 
+buy_ebook_apple: https://books.apple.com/us/book/one-against-the-dimming/id6781336049
+buy_ebook_amazon: https://www.amazon.com/dp/B0H5SQG8CQ
+buy_ebook_barnes_noble: https://www.barnesandnoble.com/w/one-against-the-dimming-abdullah-ashiq/1150429579?ean=2940196539183
+buy_ebook_bookshop_org: https://bookshop.org/p/books/one-against-the-dimming-soulless-saga-1-abdullah-ashiq/7cff43e37860f4b3?ean=9798235251946&digital=t
+buy_ebook_everand: https://www.everand.com/book/1052175569/One-Against-the-Dimming-Soulless-Saga-1
+buy_ebook_fable: https://fable.co/book/x-9798235251946
+buy_ebook_kobo: https://www.kobo.com/ca/en/ebook/one-against-the-dimming
+buy_ebook_smashwords: https://www.smashwords.com/books/view/2050525
+buy_ebook_thalia: https://www.thalia.de/shop/home/artikeldetails/A1080502180
 buy_ebook_vivlio: 
 
 ---
