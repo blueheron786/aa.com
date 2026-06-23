@@ -4,7 +4,7 @@ date: 2026-06-22
 tags: [writing, announcement, inspiration]
 slug: behind-one-against-the-dimming
 summary: "The story behind One Against the Dimming: Book 1 of the Soulless Saga."
-cover: crescent-academy-1.jpg
+cover: soulless-saga-1.jpg
 ---
 
 ![cover for One Against the Dimming](/images/covers/soulless-saga-1.jpg)
