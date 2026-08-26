@@ -24,8 +24,8 @@ buy_ebook_everand: https://www.everand.com/book/1052175569/One-Against-the-Dimmi
 buy_ebook_fable: https://fable.co/book/x-9798235251946
 buy_ebook_kobo: https://www.kobo.com/ca/en/ebook/one-against-the-dimming
 buy_ebook_smashwords: https://www.smashwords.com/books/view/2050525
-buy_ebook_thalia: https://www.thalia.de/shop/home/artikeldetails/A1080502180
-buy_ebook_vivlio: 
+buy_ebook_thalia: https://www.thalia.de/shop/home/artikeldetails/EAN9798235251946
+buy_ebook_vivlio: https://shop.vivlio.com/search?search=9798235251946 
 
 ---
 
