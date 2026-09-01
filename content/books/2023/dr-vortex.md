@@ -17,7 +17,6 @@ buy_ebook_apple: https://books.apple.com/ca/book/dr-vortexs-web-of-shadows/id646
 buy_ebook_barnes_noble: https://www.barnesandnoble.com/w/dr-vortexs-web-of-shadows-ashiq-alibhai/1144112875?ean=2940167257603
 buy_ebook_everand: https://www.everand.com/book/673036972/Dr-Vortex-s-Web-of-Shadows
 buy_ebook_fable: https://fable.co/book/x-9798223825661
-buy_ebook_indigo: https://www.indigo.ca/en-ca/dr.-vortexs-web-of-shadows/5ef1b336-cf0a-3942-b118-4ddbeecb9677.html
 buy_ebook_kobo: https://www.kobo.com/ww/en/ebook/dr-vortex-s-web-of-shadows
 buy_ebook_smashwords: https://www.smashwords.com/books/view/1455881
 buy_ebook_thalia: https://www.thalia.de/shop/home/artikeldetails/A1069849958

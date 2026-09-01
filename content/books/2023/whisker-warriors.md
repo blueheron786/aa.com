@@ -17,7 +17,6 @@ buy_ebook_apple: https://books.apple.com/us/book/the-amazing-whisker-warriors/id
 buy_ebook_barnes_noble: https://www.barnesandnoble.com/w/the-amazing-whisker-warriors-abdullah-ashiq/1144265212
 buy_ebook_everand: https://www.everand.com/book/673051513/The-Amazing-Whisker-Warriors
 buy_ebook_fable: https://fable.co/book/x-9798223190530
-buy_ebook_indigo: https://www.indigo.ca/en-ca/the-amazing-whisker-warriors/858c6071-2582-3251-9eb0-86a4bddbabb3.html
 buy_ebook_kobo: https://www.kobo.com/ww/en/ebook/the-amazing-whisker-warriors
 buy_ebook_smashwords: https://www.smashwords.com/books/view/1455895
 buy_ebook_thalia: http://thalia.de/shop/home/artikeldetails/A1069849985
