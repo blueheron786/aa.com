@@ -23,7 +23,6 @@ buy_ebook_bookshop_org: https://bookshop.org/p/books/the-last-standing-dragon-ab
 buy_ebook_barnes_noble: https://www.barnesandnoble.com/w/the-last-standing-dragon-ashiq-alibhai/1147533265?ean=2940181239579
 buy_ebook_everand: https://www.everand.com/book/871985004/The-Last-Standing-Dragon
 buy_ebook_fable: https://fable.co/book/x-9798231484836
-buy_ebook_indigo: https://www.indigo.ca/en-ca/the-last-standing-dragon/81c7b8bf-f247-3047-a97a-701fd373a96c.html
 buy_ebook_kobo: https://www.kobo.com/ww/en/ebook/the-last-standing-dragon
 buy_ebook_smashwords: https://www.smashwords.com/books/view/1783853
 buy_ebook_thalia: https://www.thalia.de/shop/home/artikeldetails/A1075600306

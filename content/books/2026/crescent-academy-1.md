@@ -12,7 +12,6 @@ buy_paperback_abebooks: https://www.abebooks.com/Shattered-Twin-Ashiq-Alibhai-u-
 buy_paperback_amazon: https://www.amazon.com/Shattered-Twin-Crescent-Academy/dp/B0GY1XK1L9/ref=sr_1_2?crid=1BTCIOC8O045Q&dib=eyJ2IjoiMSJ9.r8Ow8GkeGcPyCElQhap41oE8KzVdMv0Civd7fgETivwtkbzEwsu0AjGLr2fJdb9EppJp_TMT9OUl-4bLfDkh1VYduvcCR44My0hEVZhLDqYEoHAp-lpxaLFsAfK-d_jv2zjMxxuHyeoBHssOSRznEkycr03B3kw-WKUEvQF6TrISUxj9oHQ7vu7FSGajwS81PJf_U2OAfjHHt1Mob4IUexLW-S7LjHB5p84DMSTiq1I.-5V23hZgzSU-cosYPSpUpJUfG017AQnvIX2N0UCRZX4&dib_tag=se&keywords=the+shattered+twin&qid=1777430305&sprefix=the+shattered+twin%2Caps%2C163&sr=8-2
 buy_paperback_barnes_noble: https://www.barnesandnoble.com/w/the-shattered-twin-ashiq-alibhai/1149924268?ean=9798235164499
 buy_paperback_bookshop_org: https://bookshop.org/p/books/the-shattered-twin-abdurrahman-ashiq/344db4c2b269ebc5?ean=9798235164499&next=t
-buy_paperback_indigo: https://www.indigo.ca/products/the-shattered-twin?variant=46836772700370
 buy_paperback_readings: https://www.readings.com.au/product/9798235164499/the-shattered-twin--ashiq-alibhai-abdurrahman-ashiq--2026--9798235164499
 buy_paperback_thalia: https://www.thalia.de/shop/home/artikeldetails/A1079440117
 buy_paperback_walmart: https://www.walmart.com/ip/Crescent-Academy-The-Shattered-Twin-Book-1-Paperback-9798235164499/20054124650?classType=REGULAR&from=/search

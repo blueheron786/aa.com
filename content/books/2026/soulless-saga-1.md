@@ -12,7 +12,6 @@ buy_paperback_abebooks: https://www.abebooks.com/9798235365728/Against-Dimming-A
 buy_paperback_amazon: https://www.amazon.com/One-Against-Dimming-Soulless-Saga/dp/B0H6NL5D14
 buy_paperback_barnes_noble: https://www.barnesandnoble.com/w/one-against-the-dimming-abdullah-ashiq/1150429579?ean=9798235365728
 buy_paperback_bookshop_org: https://bookshop.org/p/books/one-against-the-dimming-abdullah-ashiq/fb5e1b57dbb8c22e?ean=9798235365728&bkshp-astro=t
-buy_paperback_indigo: https://www.indigo.ca/products/one-against-the-dimming?variant=47181319897298
 buy_paperback_readings: https://www.readings.com.au/product/9798235365728/one-against-the-dimming--abdullah-ashiq-ashiq-alibhai--2026--9798235365728
 buy_paperback_thalia: https://www.thalia.de/shop/home/artikeldetails/A1080682742
 buy_paperback_walmart: https://www.walmart.com/ip/Soulless-Saga-One-Against-the-Dimming-Book-1-Paperback-9798235365728/20446874620 
